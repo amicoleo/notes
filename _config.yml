@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Orgonomy Notes
+title: ORGONOMY NOTES - Thoughts and experiments of Leonardo Amico
 email: leonardo.amico@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
     Hi, I'm Leonardo Amico, a designer and technologist. Here is where I write about small experiments and quick thoughts.
@@ -30,3 +30,6 @@ theme: minima
 gem: [jekyll-paginate]
 paginate: 5
 paginate_path: "/page:num/"
+
+#Analytics
+google_analytics: UA-84210001-1
