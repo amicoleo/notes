@@ -5,6 +5,9 @@ layout: default
 <div class="home">
   <div class="archive"><a href="{{site.baseurl}}/archive.html">All Posts </a></div>
   <ul class="post-list">
+
+
+
     {% for post in paginator.posts %}
       <li>
         <header class="post-header">
@@ -26,24 +29,31 @@ layout: default
     {% endfor %}
   </ul>
 
+
+  {%  assign previous_page_index = paginator.previous_page | minus: 1 %}
+  {%  assign next_page_index = paginator.next_page | minus: 1 %}
+
+
   {% if paginator.total_pages > 1 %}
     <div class="pagination">
-      <span class="page_number ">Page {{ paginator.page }} of {{ paginator.total_pages }} - </span>
+      <span class="page_number ">Post {{ paginator.page }} of {{ paginator.total_pages }}</span><br>
 
       {% if paginator.previous_page %}
-        <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
-      {% else %}
-        <span class="previous">Previous</span>
+        <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="previous">{{site.posts[previous_page_index].title}}</a><span class="previous"> << Newer</span>
       {% endif %}
+
+      {% if paginator.next_page and paginator.previous_page%}
       /
+      {% endif %}
+
       {% if paginator.next_page %}
-        <a href="{{ paginator.next_page_path }}" class="next">Next</a>
-      {% else %}
-        <span class="next ">Next</span>
+        <span class="next ">Older >> </span> <a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="next">{{site.posts[next_page_index].title}}</a>
       {% endif %}
     </div>
   {% endif %}
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+  <!-- <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p> -->
+
+
 
 </div>
