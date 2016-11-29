@@ -11,7 +11,7 @@ I've recently finished reading Player Piano, the first novel Kurt Vonnegut wrote
 
 There are two minor characters I found particularly interesting in the book. Rudy Hertz - an old worker of a welding factory, whose movements were recorded on tape to be endlessly repeated by the machines. Bud Callahan, a passionate inventor (or as we call it with 21th century lingo, a maker), who loses his job when also his machine making job get automated, therefore superfluous.
 
-![Lulu the tool - factory work](assets/classeOperaia-lulu.gif)
+![Lulu the tool - factory work]({{site.baseurl}}/assets/classeOperaia-lulu.gif)
 <figcaption>Lulu/Gianmaria Volonté in Elio Petri's "The working class goes to Heaven" - that's how I imagine Rudy the worker. And I couldn't miss the chance to make a gif and recommend that great <a href="https://en.wikipedia.org/wiki/The_Working_Class_Goes_to_Heaven">film</a></figcaption><br>
 
 
