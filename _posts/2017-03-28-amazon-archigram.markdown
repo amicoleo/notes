@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Amazon’s Everithing Store and a bit of Archigram"
+title:  "Amazon’s Everything Store and a bit of Archigram"
 date:   2017-03-28 17:08:05 +0100
 categories: readings
 ---
