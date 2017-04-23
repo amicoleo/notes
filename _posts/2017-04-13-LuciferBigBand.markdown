@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Atto Terzo: a Dream Machine inspired music web app (and something else)"
-date:   2017-03-29 17:08:05 +0100
+date:   2017-04-13 17:08:05 +0100
 categories: project
 ---
 
@@ -19,7 +19,7 @@ At the end we discarded the idea of the packaging insert - we found it really ha
 
 # 2
 
-I've stumbled on some great technologies lately, I thought they were worth to mention here, for posterity. 
+I've stumbled on some great technologies lately, I thought they were worth to mention here, for posterity.
 
 1. Lightform will release this summer a consumer product for interactive projection mapping https://www.fastcodesign.com/90107499/a-2-4-million-bet-to-turn-your-home-into-a-giant-screen
 
