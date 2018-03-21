@@ -13,7 +13,7 @@ But this somewhat old-fashioned competition marked an unprecedented event in soc
 
 Although a minimum disturbance which didn't prevent Twitter users commenting about the show, such operation seems to me quite beyond what social media should be allowed to do with their users. For one thing is to put targeted ads on my private wall/timeline (which I concede you in exchange of using your platform, that I do for free), but another thing is to intervene on my own words, making changes to my own content. And it's even less acceptable that this happen for the benefit of an external entity (Tim, in this case) which is not directly involved in what I'm writing about (the song contest Sanremo).
 
-HopHere's a related (fictional) scenario from David Foster Wallace's Infitine Jest. Branded years.
+Here's a related (fictional) scenario from David Foster Wallace's Infitine Jest. Branded years.
 
 > 1. Year of the Whopper
 2. Year of the Tucks Medicated Pad

@@ -38,7 +38,9 @@ $on-laptop:        800px;
 // Import partials from the `minima` theme.
 @import "minima";
 
-
+body {
+    font-size: 18px;
+}
 
 a, a:visited{
   text-decoration: underline;
@@ -73,7 +75,6 @@ blockquote{
   text-align: right;
 }
 
-
 .description{
   clear: left;
   font-size: $big-font-size;
@@ -89,10 +90,6 @@ blockquote{
 
 .categories{
   font-size: $small-font-size;
-}
-
-.iframe-container{
-
 }
 
 .ngram-container {
