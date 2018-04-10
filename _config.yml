@@ -33,3 +33,6 @@ paginate_path: "/page:num/"
 
 #Analytics
 google_analytics: UA-84210001-1
+
+plugins:
+    - jekyll-seo-tag
