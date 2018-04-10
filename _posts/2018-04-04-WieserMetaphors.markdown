@@ -91,3 +91,6 @@ What's surprising is that almost all of the metaphors mentioned by Mark are stil
 
 
 👋 Mark.
+
+_PS -
+Image is Mark Wieser playing drums with his band Severe Tire Damage and it's taken from the band page [here](http://www.std.org/text/Weiser.html)._
