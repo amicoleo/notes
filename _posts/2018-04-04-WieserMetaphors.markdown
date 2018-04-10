@@ -3,6 +3,7 @@ layout: post
 title:  "A 2018 review of Mark Wieser's 1993 technological metaphors review"
 date: 2018-04-04 19:08:05 +0100
 categories:
+image: {{site.baseurl}}/assets/WeiserHappy.jpg
 ---
 
 ![Mark Wieser]({{site.baseurl}}/assets/WeiserHappy.jpg)
