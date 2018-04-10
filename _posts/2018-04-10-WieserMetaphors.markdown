@@ -1,14 +1,14 @@
 ---
 layout: post
 title:  "A 2018 review of Mark Wieser's 1993 technological metaphors review"
-date: 2018-04-04 19:08:05 +0100
+date: 2018-04-10 17:08:05 +0100
 categories:
-image: {{site.baseurl}}/assets/WeiserHappy.jpg
+image: "/assets/WeiserHappy.jpg"
 ---
 
 ![Mark Wieser]({{site.baseurl}}/assets/WeiserHappy.jpg)
 
-At [Uniform](http://uniform.net/) we are recently started working on some ideas about the Connected Home. I took the opportunity to going through old Mark Wieser's [Ubicomp papers](http://www.ubiq.com/hypertext/weiser/UbiHome.html). For those who don't know him, Wieser's research while at PARC from late 80s - late 90s, has been pivotal in setting the scene to what more recently has been called the Internet of Things.
+At [Uniform](http://uniform.net/) we have recently started working on some ideas about the Connected Home. I took the opportunity to going through old Mark Wieser's [Ubicomp papers](http://www.ubiq.com/hypertext/weiser/UbiHome.html). For those who don't know him, Wieser's research while at PARC from late 80s - late 90s, has been pivotal in setting the scene to what more recently has been called the Internet of Things.
 
 In one of his paper in particular, [The World Is Not A Desktop](http://www.ubiq.com/hypertext/weiser/ACMInteractions2.html) from 1993, Mark reviews a number of metaphors of technological visions popular at the time, with the aim to demonstrate why his idea of invisible technology was superior to other research directions.
 
