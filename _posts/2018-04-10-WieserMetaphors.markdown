@@ -4,6 +4,7 @@ title:  "A 2018 review of Mark Wieser's 1993 technological metaphors review"
 date: 2018-04-10 17:08:05 +0100
 categories:
 image: "/assets/WeiserHappy.jpg"
+description: ""
 ---
 
 ![Mark Wieser]({{site.baseurl}}/assets/WeiserHappy.jpg)

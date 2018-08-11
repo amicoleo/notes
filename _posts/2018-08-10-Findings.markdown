@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "Signals - 2018/1"
+date:   2018-08-10 10:08:05 +0100
+categories: signals
+---
+
+3 (approx) interesting projects, new or old, found (approx) this week.
+
+## 1. Itty bitty
+
+A website in a url. No server, no hosting. The map is the territory. The medium is the message. The address is the house. Neat.
+
+[here](https://itty.bitty.site)
+
+## 2. Painted Earth
+
+Studio Moniker's last project. Use your phone and geolocation to draw as you walk. Nice thing, as in all of their projects, it's a website, not an app.
+
+[here](https://painted.earth/)
+
+## 3. Living with Bots (2015)
+
+Very nice interaction design concept. A smart home device made of a number of single-task bots, interacting with the people at home and with each other.
+
+> The group dynamics that arises from the bots placed in the main unit changes the relationship we have with might have with technology to something alike having a group of pets: never entirely predictable but always succeeding or failing with the best of intents.
+
+[here](https://vimeo.com/149985577)

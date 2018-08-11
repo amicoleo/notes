@@ -4,6 +4,6 @@ Run locally
 ```
 bundle exec jekyl serve
 ```
-# NOTES
 
-- Add image on the front matter to have social image (check wieser post for that)
+# USAGE
+- Images needs to be linked as `{{ site.url }}{{site.baseurl}}/assets/NAMEIMAGE.jpg` otherwise they will be broken on the RSS feed
