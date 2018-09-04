@@ -39,7 +39,12 @@ $on-laptop:        800px;
 @import "minima";
 
 body {
-    font-size: 18px;
+  font-size: $base-font-size;
+}
+
+*::selection{
+  color: $background-color;
+  background-color: $text-color;
 }
 
 a, a:visited{
@@ -51,10 +56,20 @@ a:hover{
   color: $grey-color
 }
 
+p{
+  font-size: $base-font-size;
+}
+
 h1{
+  font-weight: 600;
+  font-size: $big-font-size;
+  margin-top: $spacing-unit;
   margin-bottom: 0;
 }
 h2{
+  font-weight: 600;
+  font-size: $base-font-size;
+  margin-top: 18px;
   margin-bottom: 0;
 }
 
@@ -107,5 +122,6 @@ blockquote{
 }
 
 #subscribe{
+  margin-top: 10px;
   text-align: right;
 }
