@@ -1,0 +1,47 @@
+---
+layout: post
+title:  "Signals - 2018/3"
+date:   2018-08-31 09:08:05 +0100
+categories: signals
+---
+
+*I'm figuring out what this blog is and should be. From its original intention it was meant to be ["a place where to put scattered thoughts or notes about half-backed experiments not worth of making a whole project or a whole article"](http://orgonomyproductions.info/notes/2016/09/11/welcome.html). It has been like that sometimes, sometimes it hasn't. What surely wasn't, is consistent. The goal is to make it into a habit, so here I am again. At week 3 of this new course, my plan is to use it also for week-notes, in the sense of [Matt Webb](https://medium.com/job-garden/a-pre-history-of-weeknotes-plus-why-i-write-them-and-perhaps-why-you-should-too-week-16-31a4a5cbf7b0) (Matt Webb's Interconnected was actually the main source of inspiration when I started this, it all comes together... ). So, without further ado, let's get started.*
+
+End of week notes and 3 (approx) interesting ~~projects~~ things, new or old, found (approx) this week.
+
+# Notes
+
+Two main things this week.
+
+I’ve worked on user experience design for an AR application. It is an internal project, therefore a good opportunity to try push it a little bit further with what the medium could do and to test out more outside-the-box ideas. Storyboards are often our to-go tool to develop an idea into a concept and for a previous AR app, as a reference for graphic designers and developers, we used a detailed wire-flow (in the sense of [Nielsen Norman](https://www.nngroup.com/articles/wireflows/)). But in this case the core of the concept was already decided - show content when pointing the camera of the app to a poster - and details of the app content was still to be worked on, so we needed some intermediate approach between a storyboard and a wire-flow. What we used, that proved successful, was to sketch down a detailed user task flow for the whole experience, identify what points of the experience could be interesting to rethink and then sketch out single vignettes for each of those point to illustrate the idea. That worked well to start thinking about the app experience as a whole and to present our ideas to the team.
+
+The rest of the week we worked on a 3 days sprint. Often in those, especially when there are people from different teams like in this case, we use card based ideation sessions. It’s a technique I’ve learned few years ago while an Interaction Designer at Fabrica, and consists in preparing cards each with a different technological items, picking two cards at random and spending a short amount of time (we found that eight minutes is a good amount) to sketch out as many ideas as possible mashing up the technologies in the cards. Obviously many ideas are wonky, weird or impossible, but its fast paced and structured rhythm gives plenty of opportunities to inspire ideas that are actually good. Except that this time it didn’t. We had six different HMW statements and the initial plan was for each of them, to pick two cards and spend those eight minutes for ideas. Well, it turned out that trying to mesh together three different things in an extremely short amount of time was too way more our mind could handle. The cards were not inspiring, the HMW brief was out of focus and in turn the whole session was just plain frustrating. After a couple of rounds we gave up with this approach and instead laid out all tech cards, visible to all members of the workshop, and used them just as references while we were just focussing on the HMW questions pinned on the wall. The session started running more productively after that, and at the end we had some promising ideas we could develop and eventually prototype. Note for the self: don't over constrain it.
+
+
+
+# Findings
+
+## 1. Responsible IoT
+
+Many great people on from the Thingscon network collaborated on this document.
+
+I'm still going through it all but I've already very much enjoyed [one article](https://medium.com/the-state-of-responsible-internet-of-things-iot/controlling-machines-ai-intentions-and-games-and-in-the-iot-670250a50c2) by Simon Höher on the need to identify and block increasingly sophisticated and automated manipulations from the technology we use.
+
+> we might want to behave just like we learned to behave when playing strategic games — just now, our opponent might happen to be a thing. Strategies like attentiveness (asking us regularly What did I just do?), reflection (asking us Why did I just do that?) and smart tactics to engage in a playful strategic game with our opponents, in order to get the other part to do what we want from them
+
+
+[here](https://www.thingscon.com/the-state-of-responsible-iot-2017)
+
+## 2. Gartner hype curve 2018
+
+Behold. It's out. With all the (new) buzz around Mastodon I imagined that Decentralized Networks was going to make in the old curve, but It didn't. You got me, Twitter bubble.
+
+Up-and-coming personal favs: Exoskeletons, Self-Healing System Technology. Augmented Reality's in the Trough of Disillusionment. Well, it had to be somewhere.
+
+[here](https://www.gartner.com/en/newsroom/press-releases/2018-08-20-gartner-identifies-five-emerging-technology-trends-that-will-blur-the-lines-between-human-and-machine)
+
+## 3. Olaf Stapledon
+
+I've just knew about Olaf Stapledon, a science fiction author originally from across the Mersey river from Liverpool (where I live), in West Kirby. He was active in 1930s and his two most popular books, 'Last and First Men' and 'Star Maker' are ambitious description of the future of mankind and of the whole universe. I've just started 'Last and First Men' and a visit to his places is now in my todo list. Love to celebrate local heroes (especially if it's about sci-fi).
+
+[here](https://en.wikipedia.org/wiki/Olaf_Stapledon)
