@@ -18,10 +18,15 @@
   {% include google-analytics.html %}
   {% endif %}
 
+
   <!-- 1200X600 displays uncropped on Twitter, Facebook, Linkedin - *IMPORTANT* to put full url of image, otherwise might not show on Twitter -->
   <meta property="og:image" content="{{ site.url }}{{site.baseurl}}/assets/blank.jpg" />
+  <meta property="og:type" content="website" />
+  <meta property="og:image:width" content="1200" />
+  <meta property="og:image:height" content="600" />
 
   <meta name="twitter:title" content="{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}" />
+  <meta name="twitter:description" content="{% if page.id %}{{ page.content | strip_html | truncatewords:10}}{% else %}{{site.description | escape}}{% endif %}" />
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:site" content="@orgonomyprod" />
   <meta name="twitter:creator" content="@orgonomyprod" />
