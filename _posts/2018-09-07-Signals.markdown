@@ -1,0 +1,34 @@
+---
+layout: post
+title:  "Signals - 2018/4"
+date:   2018-09-07 17:08:05 +0100
+categories: signals
+---
+
+
+End of week notes and 3 (approx) interesting things, new or old, found (approx) this week.
+
+# Notes
+
+We've just finished doing a film for a Smart Home project. For the first time, instead of creating a fully working demo product, we decided to prototype it it just enough to make a concept video (my favourite work of this kind is one that Superflux's Anab Jain and others did during their student years, I believe, [Sketch-a-move](https://vimeo.com/5125096)). That didn't stop it from being an IoT apocalypse, though. For mysterious reasons the WiFi of house where we were filming seemed unable to connect to any of our devices (a Particle Photon and a LIFX lightbulb) and after some attempts, we opted to using my iPhone as a hotspot to connect both. So for the scenes illustrating our concept: I was sitting in the room with two iPhones on my lap, one of them connected to the other's hotspot, while controlling the LIFX lamp with one hand and interacting with the web interface of our prototype with the other, often times having to restart things as it seemed that my phone couldn't handle that well three devices all connected to its WiFi. While juggling among this interconnectedness entanglement I was thinking about the concept [Thingsclash](http://www.thingclash.com/), that Futurist consultancy Changeist was using for referring to these kind of people and machines messes, and I felt less alone. 
+
+
+# Findings
+
+## 1. Air Max 1 was inspired by the Pompidou Center
+
+This was new to me. Tinker Hatfield, the man behind the first Nike Air design, is an architect. And his successful idea of having a visible air cushion on the sole was taken from the Pompidou Center in Paris, whose pipes, cabling and technical equipment are exposed to the outside of the building. I so much love that.
+
+[here](https://www.highsnobiety.com/2016/03/24/nike-air-max-1-centre-pompidou/)
+
+## 2. Brand New Roman (2018)
+
+A typeface using brand logos as letters.
+
+[here](https://www.brandnewroman.com/)
+
+## 3. Prosthetic Knowledge is no more (2018)
+
+And I'm just devastated about it. I loved the Tumblr snappy way of presenting obscure creative tech projects from all over the world through a gif and a few words. I've discovered it when it featured our [Hacking Households](http://prostheticknowledge.tumblr.com/post/100173197466/hacking-households-project-exploring-ideas) project and I've been using it as a trustful source of tech and design news ever since.
+
+[here](http://prostheticknowledge.tumblr.com/post/177778864376/time-to-call-it-a-day)
