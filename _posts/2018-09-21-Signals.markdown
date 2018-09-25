@@ -1,0 +1,47 @@
+---
+layout: post
+title:  "Signals - 2018/6"
+date:   2018-09-21 10:08:05 +0100
+categories: signals
+---
+
+
+End of week notes and 3 (approx) interesting things, new or old, found (approx) this week.
+
+# Notes
+
+Our small Creative Technology team (it's me and [Mike Shorter](https://twitter.com/michaelshorter) in it), is undergoing a major rethinking of the purpose and working process of our department. Bulk of this particularly hectic week has then been spent going through notes, scribbling post-it, discussing presentations, meetings and various iteration of the previous activities.
+
+It's a great opportunity to be able rethink our role within the company, especially looking back at past projects and the shape this department had over the years. This November Uniform marks its 20th anniversary, and the value that the company has seen, since its early years, in a team focussed on the longer-term timescale of research in design & tech, is something that we are deeply proud of.
+
+We're very excited by the work what we've done so far, and we've had some good internal feedbacks already. But as there wasn't any final sign-off of the new process yet, we're still not able to go into the content of it. Hopefully we'll be able to talk about it in the following week or soon after that.
+
+
+# Findings
+
+## 1. AR Quick Look (2018)
+
+Soon after the public launch of iOS 12, supporting the new augmented reality framework ARKit 2, [Shopify](https://www.shopify.co.uk/ar) and [Opendesk](https://www.opendesk.cc/blog/augmented-reality-meets-distributed-manufacturing) have both released preview function that use _AR Quick Look_, that allows users to access AR 3D models just by tapping on a image in the Safari browser, without needing to install an new app. Shopify even made a service around it, offering to its users the service to 3D model for them the item they want to show in their digital shops through AR. It's just a first step, as the interactivity of AR Quick Look is limited to move the 3D model around in the physical space, but I believe that access to AR experiences without the burden of downloading a new app every time, will definitely be key to Augmented Reality into a mainstream experience.
+
+[here](https://developer.apple.com/arkit/gallery/)
+
+## 2. Amazon Smart Products (2018)
+
+Amazon has updated its Echo line and launched a whole new set of voice-controlled Alexa powered products. Many are just variations on the smart speaker theme, mostly aimed to give Alexa higher-end audio quality (thus offer cheaper alternatives to Apple HomePod or Sonos) but there are some more interesting stuff too. One it's Microwave, and it's an connected, you guess, microwave. It's inexpensive ($59.99) and you can control it through voice with Amazon Echo and enable it to reorder pop-corn when you run out using the _Dash Replenishment_ service. More than an innovative product (Alexa would not put that mug in the microwave, would it?) it's interesting to see it as the first experiment of integrating frictionless shopping functionalities of the Dash Replenishment service at scale (there are other non-Amazon products that also utilizes that function, but all of them with a niche audience and in general expensive). Another product is a bluetooth connected clock, its main function to display the timers you've set with Alexa. With these devices Amazon has become the first company with a whole smart home vision you can buy right now. Just that its vision is a rather underwhelming one. [Ian Bogost](https://www.theatlantic.com/technology/archive/2018/09/amazon-is-invading-your-home-with-micro-convenience/571015/) sums it up nicely with the term "Micro-Convenience".
+
+> This is how Amazon has infiltrated the home with its voice-activated devices and service. Not through genuine utility, but by scratching the smallest itches of ordinary life—even when Amazon itself is the cause of the initial irritation. The results might be convenient, but they also facilitate a new depth of corporate surveillance.
+
+
+[here](https://qz.com/1397410/amazon-announced-more-than-a-dozen-new-products-today-heres-what-matters/)
+
+## 2b. Amazon Scout (2018)
+
+Jeff has been signing off project like crazy (from Brad Stone account how controlling the Amazon CEO is, I'd be surprised if he didn't have a say on every single product has been released in these past days), because Amazon have also launched, in the word of somebody in ProductHunt "A machine learning Pinterest competitor. Shop with 👍or 👎.". Amazon is not new in releasing products that explore new ways to discover products to buy. One other from a while ago was [Spark](https://www.amazon.com/Spark), that an Instagram style social media where you can tap on objects displayed on the photos to access its page on Amazon. What I find especially interesting about those minor projects by GAFA companies is how they give an insight into their culture and how they want to be perceived. For instance Google's collaborations with artists and small studios in creative projects and Apple not launching anything until is a final release and without some loud media fanfare.
+
+[here](https://www.amazon.com/scout/)
+
+## 3. Aurora
+
+This week Uniform Creative Technology went to the opening of Aurora, an immersive installation by Invisible Flock studio and produced by Liverpool Art & Design institution FACT. The project was developed in collaboration with a number of international partners among which our studio friend Babitha from [Quicksand](http://quicksand.co.in/). The installation, hosted inside the tunnel-like space of the Toxteth Reservoir in Liverpool, is an hour long very intense experience light and sound experience, recounting a geological ages long story about water. The piece was actually so engaging that I've even managed not to think too much at engineering aspect of it all during the duration, despite it being especially impressive in scale and complexity: not something that I'm able to do very often. Very special and and well worth a visit.
+
+[here](https://www.fact.co.uk/projects/aurora.aspx)
