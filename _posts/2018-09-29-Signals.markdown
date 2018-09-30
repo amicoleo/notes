@@ -1,0 +1,42 @@
+---
+layout: post
+title:  "Signals - 2018/6"
+date:   2018-09-30 10:08:05 +0100
+categories: signals
+---
+
+
+End of week notes and 3 (approx) interesting things, new or old, found (approx) this week.
+
+# Notes
+
+Our new research theme is finally starting to take shape and the temporary working title is "Shared User Experience" (yes, it couldn't be less catchy). We'll be going into more detail on it, but here's the gist of our thinking.
+
+There's a general tendency by popular communication technologies companies (Apple, Google and Facebook) to design products that are making us isolated from each others. This is not a deliberate choice of engineers and designers building those products, but something that is not good for people, avoidable, and that can be addressed. Our plan is to illustrate ideas of products to be used in social environment (we're working on the scenarios of the home and of face-to-face meetings) that enable and even enrich the direct interactions between people.
+
+There're quite a few things on the pipeline for this project. Next week we'll have a 3 days hack to explore the concept in the context of face-to-face meetings and I'm planning to write something on the consequences that products focused on individual, personalised experiences will have on an increasingly software-mediated world (read AR).
+
+# Findings
+
+## 1. Oculus Quest (2018)
+
+A new portable VR headset released by Oculus. The big news is that it uses cameras on the headset to map your surroundings so that you can move in the virtual space. This feature is already available in high end headset such as Vive and Oculus Rift, but both of them need 1. to be tethered to a computer and 2. sensors placed on the ceiling or table in front of the user for the tracking.
+
+[here](https://www.oculus.com/quest)
+
+## 2. Snapchat Visual Search (2018)
+
+> Simply point your Snapchat camera at a physical product or barcode, and press and hold on the camera screen to get started. When the item or barcode is recognized, an Amazon card will appear on-screen, surfacing a link for that product or similar ones available on Amazon.
+
+Shazam for things as a feature on a popular app such as Snapchat, although not available to everybody yet. Does that mean that we'll see people start sneaking pics in train and public places? Will Facebook release the same functionality for Instagram a couple of months (we've seen that before... )?
+
+[here](https://www.snap.com/en-US/news/post/introducing-visual-search/)
+
+## 3. solar.lowtechmagazine.com (2018)
+
+
+A radical experiments in sustainability. A self-hosted website, solar powered and off the grid. A good reminder that the internet is based on a very tangible infrastructure (of cables, data-centers, people, etc) and not an immaterial "cloud" as we are too often led to believe.
+
+I also love their tourist location sounding heading: “When is the best time to visit?”, warning about the risk of downtime during rain days.
+
+[here](https://solar.lowtechmagazine.com/2018/09/how-to-build-a-lowtech-website/)

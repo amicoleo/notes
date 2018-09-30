@@ -24,3 +24,5 @@ From Adam Greenfield Dispatch.
 
 From David Byrne
 "technology made by nerds make us all misantrophic beings"
+
+With AR it will be even worse: it is with google maps now https://www.fastcompany.com/3058283/why-google-maps-shows-you-different-borders-depending-on-where-you-are 
