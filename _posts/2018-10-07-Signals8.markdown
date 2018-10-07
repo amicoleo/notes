@@ -1,0 +1,43 @@
+---
+layout: post
+title:  "De-phubbing: Signals - 2018/8"
+date:   2018-10-07 10:08:05 +0100
+categories: signals
+---
+
+End of week notes and 3 (approx) interesting things, new or old, found (approx) this week. Also on [Powered by Uniform](LINK) Medium publication.
+
+# Notes
+
+As anticipated last week, we did a quick 3 days hack on face-to-face scenarios and communication technologies.
+
+Our goal with the Shared Experience design theme is to develop an approach for designing digital products that especially considers the face-to-face surroundings of the user (the people around him in a specific moment and more in general the ones that he/she share spaces with through a house, a workplace, a neighbourhood etc.).
+
+Smartphones have transformed our social moments. We believe there is an untapped opportunity to use our devices to enrich the time we spend with people; but in most cases the effect that smartphones have, is to isolate us from each other and to damage social interactions.
+
+As a first step we decided to focus on the latter case, the negative scenario. The reason for that is that if we want to design products that are actually improving face-to-face situations, we needed to figure out also when we shouldn't create a product. As designers working every day with technology, it's easy to fall in [_solutionism_](https://www.theguardian.com/technology/2013/mar/09/evgeny-morozov-technology-solutionism-interview)traps, that impulse to see in any issue a possible technological fix. And spending some time so identify the cases in which we need less, not more, tech, is an effective way to educate ourselves against those traps.
+
+During the course of the hack, we identified three motivations people have for _phubbing_, the action of snubbing someone in favour of a mobile phone, and came up with three simple ideas to address them, each solution specifically un-technological, as a reminder that this wasn't a space for a new product, but for reflecting on our use of existing ones.
+
+We're spending some more time to refine what we did and will soon share the result of the hack.
+
+
+# Findings
+
+## 1. Wearspace (2018)
+
+A prototype by Panasonic. Basically it's noise cancelling headphones attached to a fabric structure that covers the sides of you field of view. Ingenuous but effective solution for staying focused while at work, especially in open-space offices.
+
+[here](https://www.youtube.com/watch?v=2aLrjEvNnpE)
+
+## 2. Anamorphic Playground (2018)
+
+London based Unit Lab and studio friends, create products "that bring science into everyday objects". Their latest project is a playground where pieces are distorted in real life, but appear normal when looked through warped mirrors placed in the playground.
+
+[here](https://www.dezeen.com/2018/10/05/anamorphic-playground-unit-lab-mirror-eleanor-palmer-primary-london-architecture/)
+
+## 3. Smarter Homes (2018)
+
+If you have an interest on Design and the Internet of Things, chances are you've heard of Alexandra Deschamps-Sonsino. She've been giving talks,  organising conferences, writing and consulting about smart homes, connected objects and the likes since almost 10 years, always strongly working and advocating for ethical and human-centred values. She wrote a book on the topic that has just been released and I'm looking forward to start reading it. An introduction is available on her [Medium](https://medium.com/@iotwatch/smarter-homes-how-technology-has-changed-your-home-life-an-introduction-5e8306a59a31).  
+
+[here](http://designswarm.com/book/)
