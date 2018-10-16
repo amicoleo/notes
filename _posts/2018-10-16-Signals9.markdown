@@ -1,0 +1,53 @@
+---
+layout: post
+title:  "Screen Time — 2018/9"
+date:   2018-10-16 10:08:05 +0100
+categories: signals
+---
+
+End of week notes and 3 (approx) interesting things, new or old, found (approx) this week. Also on [Powered by Uniform](https://medium.com/uniform-creative-technology/tagged/weeknotes) Medium publication.
+
+# Notes
+
+Last week main focus was to finalize documentation for the Shared Home project, ahead of some meetings where we wanted to introduce the idea. The project is called Roommate and a [blog post](https://design.uniform.net/blog/roommate-bringing-comfort-into-the-shared-smart-home) about it is now live 🎉.
+
+But for of an exhibition that we’re preparing for this week's [Design Manchester](http://designmcr.com/events/conference-disruptm) event, I’ve also worked on some code for making a connected thermal printer prototype we use in the studio to also stream and print tweets and Instagram comments.
+
+Twitter has always been the poster-boy platform for IoT and internet experiments. Uniform’s [Sweet Tweet](https://vimeo.com/34845280), our first Creative Technology project from 7 years ago, was also listening for Twitter hashtags and doing something with it. There were actually some breaking changes on the Twitter API this year, but the ability to stream the public Twitter feed in search for a specific keyword, which is what I needed, is still perfectly available.
+
+But Instagram is where most people are now, so we also wanted to integrate it as well in our little in-person engagement tool. The problem is that Facebook has radically restricted all its APIs after the Cambridge Analytica scandal, making them only available to medium and big size businesses, and there’s not any official way (we’ll get to that later) to programmatically access the platform’s content if you’re not one of them. It feels like we’ve moved light years away from a time, 5–6 years ago, when integration was key for internet platforms and I used to browse websites like [Programmable Web](https://www.programmableweb.com/) in search for interesting data and service to connect to. To summarize that lost spirit, that’s from an article I wrote a couple of years back.
+
+> We think of APIs as just another material, and we love consuming RESTful interfaces as much as we love turning wood.
+
+But all is not lost. Apparently, there’s still a way to access Instagram public posts. You can search for comments that contain a specific keyword by accessing an URL constructed in this way: [www.instagram.com/explore/tags/pizza/?a=1](www.instagram.com/explore/tags/pizza/?a=1). Change pizza with anything else and you’re ready to go. As I said, it’s all undocumented, so a bit of JSON beautifying is necessary in order to use it. It also 404s often and I wouldn’t count on it for a long time, but for lack of alternatives (and for an application without critical requirements) it’s more than enough.
+
+# Findings
+
+## 1. Facebook Portal (2018)
+
+Facebook announced its first hardware product. A camera+screen combo for video calling and watching videos. Nice feature: is that the camera can move to follow the user in the room and the video automatically zooms out to include all people in the frame. Curious feature: it uses Amazon Alexa as a voice assistant. Ironic feature: a clip-on camera cover is already included.
+
+[here](https://portal.facebook.com/)
+
+## 1b. Google Home Hub (2018)
+
+At about the same time as Facebook, also Google released a connected screen device. It uses the Google assistant, you can watch YouTube videos and play music. It doesn’t include a camera though: in privacy-conscious times they avoided to deal with the issue altogether?
+
+[here](https://store.google.com/product/google_home_hub_specs)
+
+## 2. How to Generate (almost) anything (2018)
+
+We are a bunch of scientists and artists that aim to test the limits of human-AI collaboration to generate (almost) anything the human mind can (and can’t) imagine.
+
+A repository of Human-AI collaborating efforts, with a name directly inspired by Neil Gershenfeld’s How to Make (Almost) Anything MIT class, where the idea of Fab-Labs was created. Surely an homage, but also an apt picture of this past couple years’ tech zeitgeist: makers’ days are over, behold the human-AI centaur.
+
+[here](https://howtogeneratealmostanything.com/)
+
+
+## 3. Fiberbots (2018)
+
+> The FIBERBOTS are a swarm of robots designed to wind fiberglass filament around themselves to create high-strength tubular structures.
+
+Basically Neri Oxman group at MIT media lab is actually creating technologies for that kind of organic inspired, generative architecture that Archigram and Japanese Metabolists were dreaming of in the 60s and 70s. And the video is just stunning.
+
+[here](https://www.media.mit.edu/projects/fiberbots/overview/)
