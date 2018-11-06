@@ -1,0 +1,53 @@
+---
+layout: post
+title:  "Screen Time — 2018/11"
+date:   2018-11-06 10:08:05 +0100
+categories: signals
+---
+
+End of week notes and 3 (approx) interesting things, new or old, found (approx) this week. Also on [Powered by Uniform](https://medium.com/uniform-creative-technology/tagged/weeknotes) Medium publication.
+
+# Notes
+Mike Shorter and I will be in Rotterdam for [Thingscon Conference 2018](https://www.thingscon.nl/), giving a workshop on our AI personas framework.
+
+This is the research framework that we used for during an internal workshop that led the emotional radio Solo, a project we are particularly proud of.
+
+As we spent some time last week to refresh the workshop structure that we used back then, it was also interesting to look at the write-ups we did on the back of that workshop. At the time the radio was not yet called Solo, but Timbre, and it was made of cardboard instead of wood and Formica. Here they are, still fresh: [Designing with AI](https://design.uniform.net/blog/designing-with-ai) and [Timbre: designing with AI part 2](https://design.uniform.net/blog/timbre-designing-with-ai-part-2).
+
+The Thingscon conference website is not up yet, but here’s the description of our workshop session.
+
+> Thanks to new machine learning advancements, we can now create connected objects which are able to carry out complex tasks autonomously, without requiring direct user inputs.
+But with increased autonomy, our ability to plan for all possible interactions users will have with the products diminishes, with the result that users expecting seamless experiences will be often frustrated and disappointed.
+As products become smarter with AI, we can no longer regard them as tools for people to use. This usual metaphor doesn’t work anymore for describing the complex interactions between users and AI-powered products. A better way to consider the new user-object relation is one of cooperating partners.
+By using the personification metaphor we can give users an intuitive way to manage their expectation when using products with autonomous, complex behaviours.
+The AI Personas is a simple framework that uses the characters of the Butler, the Police and the Buddy to illustrate three different ways for intelligent products to behave. By referring to these personas and their familiar traits, designers can have a higher level reference for guiding their process and users can intuitively know what the product would do in each situation.
+In this workshop, we will first introduce our AI Personas framework of the Butler, the Police and the Buddy. Afterwards, we’ll have a creative session where we’ll show you show you how to use the frameworks for ideating AI-powered products with clear goals and behaviours.
+
+Thingscon’s early bird tickets are still available until October 4th. Be sure to grab one before then [here](https://www.thingscon.nl/conference-2018/)!
+
+# Findings
+
+## 1. Spatial (2018)
+A truly impressive prototype of collaborative remote workplace using AR. Basically you see an avatar of your colleague through AR glasses (Hololens and Magic Leap One, on the demo video) and you organise documents, create a moodboard in mid air and so on.
+
+Video is great (although I’m not sure why the soundtrack needed to really be so so dramatic).
+
+[here](https://www.spatial.is/)
+
+## 2. sociality.today (2018)
+A website collecting patents of technologies about social control, manipulation, and surveillance. Great effort to make this visible.
+
+Patent titles are frightening by themselves.
+
+For instance: “system and method for determining credit worthiness of a user” or “system and method for identifying persons having socially unacceptable behaviour” and around 400 more.
+
+Thanks Erika for finding this.
+
+[here](https://www.sociality.today/)
+
+##  3. Smartians (2018)
+Dutch invention studio Frolic created a prototype of a kit of connected actuators to connect online switches, knobs, buttons, etc.
+
+My favourite thing is how thoroughly the kit was designed. A number of addons and a positioning system for the actuator to make the device suitable to smartify a huge variety of house interactions.
+
+[here](http://frolicstudio.com/portfolio/smartians/)
