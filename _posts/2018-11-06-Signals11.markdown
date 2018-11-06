@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Screen Time — 2018/11"
+title:  "AI Personas reloaded — 2018/11"
 date:   2018-11-06 10:08:05 +0100
 categories: signals
 ---
