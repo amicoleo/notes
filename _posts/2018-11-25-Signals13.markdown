@@ -1,0 +1,54 @@
+---
+layout: post
+title:  "Modularity vs Ad-Hoc in prototyping — 2018/13"
+date:   2018-11-25 10:08:05 +0100
+categories: signals
+---
+
+_End of week notes and 3 (approx) interesting things, new or old, found (approx) this week. Also on [Powered by Uniform](https://medium.com/uniform-creative-technology/tagged/weeknotes) Medium publication._
+
+<!--  
+The weeknote structure
+
+Do yourself a favour, write it first on paper
+
+1. Context
+2. Problem
+3. Solution
+
+-->
+
+
+We had a quick workshop and one of the outcomes was an interactive prototype to demonstrate our idea.
+
+When the requirement is to have an experience prototype, focussed on a single feature to be tested or demonstrated, and speed (1-3 days), I found planning how much to modularise being the most crucial aspect of the whole development.
+
+To turn one application block into a reusable module is time consuming, but if the module is used often enough throughout the application, it will definitely save time after. On the other hand, without the requirement of maintainability of a prototype application, writing ad-hoc code(hard-coded values, copied and pasted functions and other software engineering aberration and [spaghetti coding](https://en.wikipedia.org/wiki/Spaghetti_code) trade-marks) can be just good enough for the job.
+
+And the most effective way to decide what to modularise and what to code ad-hoc is a lot of scribbling. Having at hand the focus of the prototype clearly stated and visible on a piece of paper, and then, iterations after and iterations of flow-charts and code structure drawings (which for me, regardless if I'm working with modules in javascript or object-oriented programming in Openframeworks/C++, is some simple version of [Class diagrams](https://en.wikipedia.org/wiki/Class_diagram)).
+
+Once the diagrams are detailed enough in terms of structure and it looks like something that can be done fast and that would be effective for the demonstration or testing, just then is time to code. Every extra minute spent sketching and refining the diagrams, is countless time (and frustration) saved during development.
+
+
+# Findings
+
+## 1. HyperSurfaces (2018)
+
+HyperSurfaces uses vibration sensors and AI algorithms to turns any surface into an interface, recognising gestures and objects colliding onto the surface. From the CEO of the company Zamborlin:
+
+> it is difficult to imagine what the applications of HyperSurfaces technology might end up being, in a similar way as it was difficult to imagine 10 years ago all of the applications a mobile phone could enable. The most immediate ideas include the possibility of creating technological objects made of materials that until now haven’t been associated with technology at all, such as wood, glass and different kinds of metal etc.
+
+I love the potential of this, and I'm also excited about the big design challenge of this technology: to turn a feature-less surface/object into a usable interface. To say it with [Don Norman's definition](https://www.interaction-design.org/literature/book/the-glossary-of-human-computer-interaction/affordances) of affordance: the "perceived and actual properties of the thing, primarily those fundamental properties that determine just how the thing could possibly be used."
+
+[here](https://www.futurism.com/the-byte/hypersurfaces-smart-surface)
+
+## 2. Privacy Not Included (2018)
+Mozilla's shopping guide for the privacy minded. Nicely done website, accessible and informative
+
+[here](https://foundation.mozilla.org/en/privacynotincluded/)
+
+##  3. Thingscon conference (2018)
+
+New sleek website for the organisation, and the 2018 Rotterdam conference is out, with our [AI personas](https://thingscon.org/ai-personas-an-intuitive-framework-for-designing-intelligent-connected-objects/) workshop too!
+
+[here](https://thingscon.org/program-2018/)
