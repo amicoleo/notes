@@ -45,7 +45,7 @@ Airbnb's has a project called Backyard in which they are planning to produce and
 
 [here](https://www.fastcompany.com/90271599/exclusive-airbnb-will-start-designing-houses-in-2019)
 
-## 2. Privacy Not Included (2018)
+## 2. Doodle Master (2018)
 Somebody did an implementation of that near Airbnb's [Sketching Interfaces](https://airbnb.design/sketching-interfaces/) concept: turn UI sketches into real (web) code. Looks neat.
 
 [here](https://github.com/karanchahal/DoodleMaster)
