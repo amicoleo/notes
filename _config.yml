@@ -28,7 +28,7 @@ theme: minima
 
 #Paginate
 gem: [jekyll-paginate]
-paginate: 1
+paginate: 10
 paginate_path: "/page:num/"
 
 #Analytics

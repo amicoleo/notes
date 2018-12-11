@@ -4,6 +4,7 @@ layout: default
 
 <div class="home">
   <div class="archive"><a href="{{site.baseurl}}/archive.html">All Posts </a></div>
+
   <ul class="post-list">
 
 
@@ -36,10 +37,10 @@ layout: default
 
   {% if paginator.total_pages > 1 %}
     <div class="pagination">
-      <span class="page_number ">Post {{ paginator.page }} of {{ paginator.total_pages }}</span><br>
+      <span class="page_number ">Page {{ paginator.page }} of {{ paginator.total_pages }}</span><br>
 
       {% if paginator.previous_page %}
-        <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="previous">{{site.posts[previous_page_index].title}}</a><span class="previous"> << Newer</span>
+        <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="previous"> Previous</a>
       {% endif %}
 
       {% if paginator.next_page and paginator.previous_page%}
@@ -47,12 +48,11 @@ layout: default
       {% endif %}
 
       {% if paginator.next_page %}
-        <span class="next ">Older >> </span> <a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="next">{{site.posts[next_page_index].title}}</a>
+       <a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="next">Next </a>
       {% endif %}
     </div>
   {% endif %}
 
-  <!-- <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p> -->
 
 
 
