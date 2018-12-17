@@ -1,0 +1,59 @@
+---
+layout: post
+title:  "Thingscon: Ethics in tech & AI personas report — 2018/15"
+date:   2018-12-03 10:08:05 +0100
+categories: signals
+---
+
+_End of week notes and 3 (approx) interesting things, new or old, found (approx) this week. Also on [Powered by Uniform](https://medium.com/uniform-creative-technology/tagged/weeknotes) Medium publication._
+
+<!--  
+The weeknote structure
+
+Do yourself a favour, write it first on paper
+
+1. Context
+2. Problem
+3. Solution
+
+-->
+
+Last week Mike Shorter and I have been in the stark & beautiful city of Rotterdam for giving our AI personas workshop and attending the Thingscon conference. I've been in a Thingscon conference before, the Berlin edition in 2015 and the atmosphere in Rotterdam felt similar to the one of 3 years ago in Berlin: a friendly and informal community, passionate about technology but strongly focussed on the impact that it has on people. But if in 2015, at the peak of excitement of the Internet of Things, "making" was the driving force of the event, now the most common keyword was instead "ethics". Here are some of my highlights.
+
+
+- Peter Bhir announced the launch of the Trustable Technology Mark, a new trustmark that aims to certify that they respect user rights  - https://trustabletech.org/
+- Ethics of emerging technology advocate and ex-Twitter designer [Cennydd Bowles](https://www.cennydd.com/) did a fantastic talk about ethics in tech, one of his interesting argument that here I'm paraphrasing is that "we should not make a business case for ethics, because if we make ethics subservient to business we imply that there could be a better business case to replace the ethics argument".
+- Researcher Holly Robbins and Thingscon co-founder Simon Höher hosted a great panel on ethics and one of the most interesting point touched during the discussion was about the need to set aside space and time for talking ethics together, rather than leaving the moral questions just to individuals alone.
+
+
+----
+
+
+Now some words about the AI personas workshop we gave. Many of the participants were from University. Both students and teachers. It was interesting to see how our AI personas resonated with them. We had for instance a good discussion about the relationship between the UX methodology of Personas and our personas. If in both the end goal is always to create useful, pleasing objects for people, the AI personas is in a way thing-centred instead than user-centred, focussing more on characterising the object instead of the people using it. In general, it was nice to hear that everybody found the framework especially helpful as an ideation tool.
+
+We've also got a public shout-out from one of our participants, who cried: "AI personas" when the even host asked the audience about the workshops they liked the most. In the remote chance you're reading this, many many thanks!
+
+
+
+# Findings
+
+## 1. #Glitterstretchmark  (2018)
+
+Collage artist Sara Shakeel's Instagram trend is [Kintsugi](https://en.wikipedia.org/wiki/Kintsugi) for ageing female beauty.
+
+(via [Next Nature](https://www.nextnature.net/) newsletter and their always spot-on radar)
+
+[here](https://www.instagram.com/p/Bawcp9enZDq/)
+
+
+## 2. Made In Machina (2018)
+
+Very interesting project about AI, product design and manufacturing by Simone Rebaudengo and Sami Niemelä. A design brief is generated from a neural network trained with items available on Alibaba and then interpreted by Nordic designers.
+
+[here](https://madeinmachina.com/)
+
+##  3. 100% realistic artificially generated face portraits. (2018)
+
+Must watch video. The results are unbelievable.
+
+[here](https://www.youtube.com/watch?v=kSLJriaOumA)
