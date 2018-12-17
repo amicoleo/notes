@@ -47,6 +47,21 @@ body {
   background-color: $text-color;
 }
 
+ul.post-list > li > hr{
+  height: 2px;
+  background-color: black;
+  border: none;
+  max-width: 50px;
+  margin: 40px auto;
+}
+
+ul.post-list > hr{
+  border: none;
+  border-bottom: 1px solid #c4c4c4;
+  margin-bottom: 20px;
+}
+
+
 a, a:visited{
   text-decoration: underline;
 
