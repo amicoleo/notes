@@ -1,0 +1,66 @@
+---
+layout: post
+title:  Already broken new year resolutions and an IoT blabbermouth - Weeknote 2019/1
+date:   2019-01-14 10:08:05 +0100
+categories: weeknote, signals
+---
+
+_3 (approx) interesting things, found (approx) this week. Also on [Powered by Uniform](https://medium.com/uniform-creative-technology/tagged/weeknotes) Medium publication._
+
+<!--  
+The weeknote structure
+
+Do yourself a favour, write it first on paper
+
+1. Context
+2. Problem
+3. Solution
+
+-->
+
+
+The new year has come and with it the time for some considerations and changes.
+
+We've started this Weeknotes with two main purposes: to track and share news and interesting projects in the design & tech world (or at least the portion of it that has to do AI, IoT and emerging technologies) and to update our community and friends with what Creative Technology at Uniform is up to.
+
+So far we've had some encouraging feedback. Uniform workmates seem to enjoy our findings (thank you!) and friends on social media liked our posts and reached out to us to discuss (thank you!).
+
+But on the other hand, I often felt that what we talked about in the notes could have used some more time and reflection and be developed into a longer piece, something that regretfully I couldn't managed to do: the commitment to a one post per week seemed to suck-up any other energy for writing.
+
+So, while we work on our writing chops, the plan is to scale back on the notes. We'll still chat about what we've been up to, if some particularly interesting thing happens, but otherwise from now on, we'll limit to list what we found of interest in the week.
+
+Happy new year!
+
+---
+
+And here's to new year resolutions. We kick off the one above with already an exception!
+
+The reason is that we've just published a new project: Scout. A smart device that visualises the conversations between your other smart devices and their servers, and if something doesn't look right, enables you to ask the manufacturer for clarification via pushing a button (thanks GDPR).
+
+The good thing about (good) smart object is how they seamlessly integrate and become part of your lives. But as you forget that they are “smart” you also forget that the data they collect is constantly shared beyond your home’s walls.
+
+In this scenario, Scout is on one hand just another “ambient” device in your collection. Not more eye-catching than the Nest thermostat on your wall and not out of place among your book collection. But on the other hand, it is also the blabbermouth of the bunch, your counterspy agent in the otherwise unbalanced info-war of corporate surveillance.
+
+Check the blog post, there's also a beautiful video about the project shot by our own Beatriz Diogo - [here](https://design.uniform.net/blog/become-transparent-before-we-see-through-you-scout).
+
+# Findings
+
+## 1. CES, still putting chips on it (2019)
+
+The trend is still going strong. Among others doubtfully smart products, an internet connected fishing rod and cat litter box.
+
+[here](https://qz.com/1514805/ces-2019-connecting-literally-everything-to-the-internet/)
+
+
+## 2. Dawn (2018)
+
+A bar where robot waiters are operated remotely from a paralyzed person’s home.
+Just a proof of concept (it stayed open just a couple of days), but very interesting.
+
+[here](https://soranews24.com/2018/11/29/cafe-opens-in-tokyo-staffed-by-robots-controlled-by-paralyzed-people/)
+
+##  3. ElliQ (2019)
+
+A home assistant designed to keep elderly people active.
+
+[here](https://newatlas.com/elliq-seniors-robot/58009/)
