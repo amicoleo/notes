@@ -2,7 +2,7 @@
 layout: post
 title:  Already broken new year resolutions and an IoT blabbermouth - Weeknote 2019/1
 date:   2019-01-14 10:08:05 +0100
-categories: weeknote signals
+categories: weeknote
 ---
 
 _3 (approx) interesting things, found (approx) this week. Also on [Powered by Uniform](https://medium.com/uniform-creative-technology/tagged/weeknotes) Medium publication._
