@@ -2,7 +2,7 @@
 layout: post
 title:  More Scout and the Amen Break as design metaphor - Weeknote 2019/2
 date:   2019-01-21 10:08:05 +0100
-categories: weeknote, signals
+categories: weeknote signals
 ---
 
 _3 (approx) interesting things, found (approx) this week. Also on [Powered by Uniform](https://medium.com/uniform-creative-technology/tagged/weeknotes) Medium publication._
@@ -47,7 +47,7 @@ Absolute respect to this guy that used the Amen Break (the world's most famous 6
 I felt part of something.
 
 > One of the most common push backs on design system’s and design patterns is that they can be seen to limit a designer’s creativity or contain overly generic solutions to specific problems.
-> 
+>
 I would argue that much like using sampled music, they simply give you a starting point or set of constraints to work within. You can adapt or rearrange a pattern to suit your use case, you can make it a prominent part of your design or just let it sit in the background.
 
 
