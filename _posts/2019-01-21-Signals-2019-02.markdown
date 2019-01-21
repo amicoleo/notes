@@ -1,0 +1,54 @@
+---
+layout: post
+title:  More Scout and the Amen Break as design metaphor - Weeknote 2019/2
+date:   2019-01-21 10:08:05 +0100
+categories: weeknote, signals
+---
+
+_3 (approx) interesting things, found (approx) this week. Also on [Powered by Uniform](https://medium.com/uniform-creative-technology/tagged/weeknotes) Medium publication._
+
+<!--  
+The weeknote structure
+
+Do yourself a favour, write it first on paper
+
+1. Context
+2. Problem
+3. Solution
+
+-->
+
+
+Some more news about our latest project Scout. We've just published a new in-depth post about it on Medium, going into details about how it works and how we've done it: [Scout - A smart-home counterspy agent](https://medium.com/uniform-creative-technology/scout-a-smart-home-counter-agent-88d58dc0b45e).
+
+
+# Findings
+
+
+## 1. Project Alias (2019)
+
+Very nice project by Bjørn Karmann (who also did the brilliant [Objectifier](http://bjoernkarmann.dk/objectifier)) and Tore Knudsen. A parasite for voice assistants.
+
+> Alias is a teachable “parasite” that is designed to give users more control over their smart assistants, both when it comes to customisation and privacy. Through a simple app the user can train Alias to react on a custom wake-word/sound, and once trained, Alias can take control over your home assistant by activating it for you.
+
+[here](http://bjoernkarmann.dk/project_alias)
+
+
+## 2. Wanna Nails (2018)
+
+Try something on AR, there should be a category for these kind of apps on the App Store. This one it's an app that allows you to try nail polish on. I've tried it and I'm impressed by how well it works.
+
+[here](https://wanna.by/)
+
+##  3. The ‘Amen break’ is the ultimate design pattern (2019)
+
+Absolute respect to this guy that used the Amen Break (the world's most famous 6-sec drum loop - sampled for countless Hip-Hop, Drum & Bass, etc) as an examples to explain why Design Patterns are good.
+
+I felt part of something.
+
+> One of the most common push backs on design system’s and design patterns is that they can be seen to limit a designer’s creativity or contain overly generic solutions to specific problems.
+> 
+I would argue that much like using sampled music, they simply give you a starting point or set of constraints to work within. You can adapt or rearrange a pattern to suit your use case, you can make it a prominent part of your design or just let it sit in the background.
+
+
+[here](https://uxdesign.cc/the-amen-break-is-the-ultimate-design-pattern-53701e79e461)
