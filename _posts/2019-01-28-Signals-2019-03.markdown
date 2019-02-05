@@ -1,116 +1,42 @@
 ---
 layout: post
-title:  Another Scout on the block & innovation, Shenzhen-style - Weeknote 2019/3
+title:  A synth, zero-waste grocery and cool stuff cheap - Weeknote 2019/4
 date:   2019-01-28 10:08:05 +0100
 categories: weeknotes
 ---
 
 _3 (approx) interesting things, found (approx) this week. Also on [Powered by Uniform](https://medium.com/uniform-creative-technology/tagged/weeknotes) Medium publication._
 
-<!--  
-The weeknote structure
-
-Do yourself a favour, write it first on paper
-
-1. Context
-2. Problem
-3. Solution
-
--->
-<!--
-My 2018 has been a year of questioning AI-curation. Here's a brief list of my human-curated alternatives for discovering new media and keeping up to date with news that I personally found more calming and pleasing than the more usual algorithmic powered options.
-
-1. Music: [SomaFM](https://somafm.com/) (and especially its [drone-zone channel](https://somafm.com/player/#/now-playing/dronezone)). SomaFM curator and creator Rusty Hodge seems to have an unlimited collection of obscure ambient, beatless albums to keep you going. No risk of having that same track popping up in your playlist over and over (like in my case for Spotify), and to temptation to do interact with the web-radio in any way: either you like it or not.
-
-2. Film: [Mubi](https://mubi.com/). Mubi is a streaming platforms where every months there are available just 30 films by cult, emerging or awarded directors. Films are selected in response of some cinema event that might happen at the time (at the momement, as Rotterdam Film Festival now taking place, some of the film available are from authors from the past festival edition) or according to some
-
-3. Information:
-
- or upcoming or selected accor
-
-
-The experience is stripped down to the bare-bone. You pick a
-
-I found myself temporarily switching humans for discovering new media and keeping up to date with news.
-
-1. SomaFM (and especially its drone-zone channel) proved to be a much more reliable source for music than Spotify automated radios. Spotify's playlist (maybe for the kind of music I listen too) tend to always
-
-2.
-
-2. Film:
-
-Human scale. Personal.
-
-
-Just few notes on a thought that has been hunting my notes lately. In the past year I've been experimenting with different ways to access and discover media, that is mostly news, films and music.
-
-After
-
-Also
-
-I've been thinking
-
-Going back and forth between human-curated (the )
-
-What is lost in serendipity is
-
-another human being curating what you read, listen, watch seems to be to be more "calm" and pleasing than any flavour of AI-curation that I've tried so far. -->
-
-
-
-
-
-This week's update is over already. Until next time!
-
-![Especially if at the end of the sloping wall there's a 20 meters jump... ]({{ site.url }}{{site.baseurl}}/assets/IMG_1773.JPG)
-<figcaption>Especially if at the end of the sloping wall there's a 20 meters jump... </figcaption>
-
-
 
 # Findings
 
 
-## 1. Amazon Scout (2019)
+## 1. Teenage Engineering Modular Pocket Operator (2019)
 
-Amazon has announced a new project: Scout. But no, they didn't buy our [Smart Home counterspy prototype](https://medium.com/uniform-creative-technology/scout-a-smart-home-counter-agent-88d58dc0b45e). The Amazon's Scout is instead an autonomous delivery device, a self-driving cart to deliver packages door-to-door.
+Teenage Engineering makes the most beautiful electronic products. Now they released a modular synthesizer that you assemble yourself and is just a charm.
 
-
-> We’ve been hard at work developing a new, fully-electric delivery system – Amazon Scout – designed to safely get packages to customers using autonomous delivery devices. These devices were created by Amazon, are the size of a small cooler, and roll along sidewalks at a walking pace. Starting today, these devices will begin delivering packages to customers in a neighborhood in Snohomish County, Washington.
-
-
-[here](https://blog.aboutamazon.com/transportation/meet-scout)
-
-
-## 2. 100% Chair (2019)
-
-Toronto studio [Radical Norms](http://radicalnorms.com/) has an interesting initial exploration of manufacturing and product design.
-
-> we are looking at the relationship between A.I. and a possible future world of artifacts and objects.
-
-> To do so we developed an alternative design process in which leftover offcuts taken from various production methods are used as components in a rotating interface. Looking at the new generative compositions, the A.I. predicts the emergence of possible ‘chairs’ ranging from 0-100%.
-
-[here](https://www.creativeapplications.net/objects/100-chair-designing-for-algorithmic-landscapes/)
-
-##  3. Inside Shenzhen’s race to outdo Silicon Valley (2019)
-
-Fundamental behind the scene read from the place where our technological devices come from: Shenzhen, China.
-
-On ideation an manufacturing
-> Most global consumers’ first contact with Shenzhen came through products like the selfie stick. Seemingly frivolous, relatively easy to manufacture, they were born of a process of product development and distribution called shanzhai (山寨). The term literally means “mountain hideout” (an apocryphal story traces its origins to factories in the hills of northern Hong Kong).
-> the shanzhai method delivered “hardware memes”—gadgets quickly designed and built out of easily sourced and readily interchangeable parts.
+> our small, battery operated and affordable synthesizer today expands into the modular analog universe.
+with the introduction of three pre-configured chassis and 15 sound modules, there's finally a way for you
+to explore the pure fun of modular synthesis in a hassle free way.
+we have created three kits that include everything you need to get started. just bend, assemble and patch!
 
 
-On testing
-> Just as digital news outlets might test multiple headlines and tweets to see which one gets the most clicks, a shanzhai manufacturer would release 10 products with a mixture of copied and original designs, and go with whatever worked.
-
-On authorship
->“Chinese businessmen don’t care about competition in the way that you do,” Chen says. “The more people that are making the same product, the safer it is.” Indeed, if an idea is new and unproven, component suppliers will require payment up front. This tends to lead to design evolution rather than revolution—for example, going from an electric skateboard to an electric scooter.
-Then on the
+[here](https://teenageengineering.com/products/po/modular)
 
 
-Finally the article also talks about how an emerging network of design consultancies and software companies in Shenzhen is starting to transform it from a place limited to outsourced manufacturing and ingenuous product invention to a world-class technology hub, potentially able to compete, in their own terms, even with Silicon Valley.
+## 2. Loop (2019)
+
+[Loop](https://loopstore.com/) is a new subscription service for zero-waste grocery used by huge companies (including P&G, Unilever and others) that is due to start this 2019 in US and France. Packages are non disposable and when a replacement arrives, they pick up your old containers for reuse. This feels very big.
+
+> Loop will send you name-brand products, like Tide detergent, Crest mouthwash, or Häagen Dazs ice cream. When you’re done, you ship the empty container back, where it gets cleaned and reused for the next customer.
 
 
-[here](https://www.technologyreview.com/s/612571/inside-shenzhens-race-to-outdo-silicon-valley)
+[here](https://www.fastcompany.com/90296956/a-coalition-of-giant-brands-is-about-to-change-how-we-shop-forever-with-a-new-zero-waste-platform)
 
-(Also, after sharing the article above on Twitter I've been pointed to another shanzhai related one, also a great read: [Hip-hop and shanzhai: when two remixing worlds collide](https://medium.com/szoil/hip-hop-and-shanzhai-when-two-remixing-worlds-collide-7f833c9c968c).)
+##  3. coolstuffcheap (2019)
+
+Again on Chinese innovation, here's a Twitter account posting about cheap weird Chinese physical products to buy now. 
+
+Chances are that if you thought about it, they sell it. And if you could never have thought about something like it, they sell it too.
+
+[here](https://twitter.com/coolstuffcheap)
