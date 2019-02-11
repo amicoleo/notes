@@ -1,0 +1,81 @@
+---
+layout: post
+title:  Jaron Lanier about stories in tech, a post about AR, UX engineers... - Weeknote 2019/5
+date:   2019-02-11 10:08:05 +0100
+categories: weeknotes
+---
+
+_3 (approx) interesting things, found (approx) this week. Also on [Powered by Uniform](https://medium.com/uniform-creative-technology/tagged/weeknotes) Medium publication._
+
+Since a while I started to be convinced that the future is determined by guys with good pitches as much as the ones with good solutions: stories are ultimately what engage people and convince investors and I believe also drive the work of designers and technologists.
+
+So that's why I was particularly attuned to a recent article by Jaron Lanier. In it he argues that the current main narrative in tech is false and problematic, yet a very successful one.
+
+
+> These days, the dominant story is one I loathe: The one about how computers and the internet are spawning a new super-brain that will inherit the Earth and the stars, and how people are just a stepping-stone for the glorified new god we are building.
+
+
+> No one wanted to risk being left out of the creation of the new technology that would inherit the world. It’s a narrative that has risen to ever higher planes of influence as its adherents approach the infinite wealth one gains through information supremacy.
+
+
+According to Lanier, this narrative of AI eating the world is around since the 80s, and at the time he and others had the ambition for VR to offer an alternative vision, more people-centric - yet, as he admits, from the limited perspective of young coders bored with the limitdness of reality.
+
+
+> To us, the ultimate problem of the human situation seemed to be: boredom. We had the young hackers’ version of attention deficit disorder and we projected our complaint onto everyone else. If only humanity had something creative and compelling to do, we imagined, something that made conflict boring in comparison. That’s what would “fix” people so that they didn’t keep on taking what ought to be earthly paradise and turning into hell over and over.
+
+
+Article is [here](https://medium.com/s/2069/vr-and-the-problem-of-how-we-talk-about-tech-d8a27e812c74),  via Patrick Tanguay's always amazing  [newsletter](https://sentiers.media/schneier-on-blockchain-aocs-green-new-deal-resolution-three-layers-of-identity-purpose-vr-and-a-vegetative-faraday-cage-no-66/).
+
+-----
+
+Also, we've published a new article on Medium. It’s about why if AR experiences are developed with the same principles of current apps, we’ll end up in a world increasingly incapable to see others’ point of view, and ultimately more lonely.
+
+You can find it here: [Same frames and different pictures — A lonely AR future](https://medium.com/uniform-creative-technology/in-the-ar-future-were-headed-to-we-won-t-see-the-same-pictures-only-the-same-frames-d48ad7a9572c).
+
+# Findings
+
+
+## 1. Merger (2019)
+
+
+HYPER-REALITY's director Keiichi Matsuda has released a new work! It's a 360 video, like HYPER-REALITY using a mix of 3D and real footage, this time about a tele-operator of future. (And in case you haven't watched [HYPER-REALITY](https://vimeo.com/166807261) yet, you should do it already: I bet that at least for some time, our future augmented reality world will not look too dissimilar from what is shown in the video. Plus is beautiful, beautiful piece of dystopia fiction, fellows Black Mirror fans).
+
+> Set against the backdrop of AI-run corporations, a tele-operator finds herself caught between virtual and physical reality, human and machine. As she fights for her economic survival, she finds herself immersed in the cult of productivity, in search of the ultimate interface.
+
+
+
+[here](https://vimeo.com/302028562)
+
+
+## 2. Mira Robotics' Ugo (2019)
+
+Japanese company Mira Robotics has started testing a home robot to help with chores like folding laundry. The interesting idea is that is not an autonomous robot, but is operated remotely by a person. Until the time when the company will have gathered enough data from the operator to train the robot to perform the task on its own.
+
+
+> Mira’s business plan with Ugo is that you’ll rent one that lives in your house for somewhere between US $180 and $225 per month, with the expectation that you’ll want it to be doing housework for several hours each week. You request that the robot complete a task, and a “professional operator” will connect to the robot and get to work, disconnecting when they’re finished. Mira says that you get the same benefits of having someone in your house doing chores for you, without having to actually have someone in your house.
+
+
+> Long term, Mira’s idea is that they’ll accumulate a whole bunch of high quality training data over time, harvested from all the teleoperated laundry folding. At some point, the robot will be able to start doing some tasks autonomously and only ask for help when necessary, and eventually, they hope to transition to full autonomy
+
+I believe that many gig-economy companies will all gradually follow the long-term plan that Mira Robotics so candidly admits. As we get used to hail a cab or get food delivered through an software interface rather than a person, by the time the technology of self-driving vehicles will replace taxi drivers and cycling couriers we will hardly notice.
+
+
+[here](https://spectrum.ieee.org/automaton/robotics/home-robots/remotely-operated-home-robot-can-do-your-laundry)
+
+##  3. UX engineer
+
+Ok. Maybe I’ve lived under a rock. But in my twitterverse I’ve never came across the title of a “UX Engineer” and even Less about the other term its known with: UX Unicorn.
+
+Very surprising because, as I've discovered in the [article ](https://medium.com/google-design/why-full-stack-developers-make-the-best-ux-engineers-1ddbff6c1739?source=rss----2935d33b43a8--ux) where I've first heard about it, it's an alternative term for a Creative Technologist (!), and it's in fact very fitting with what Creative Tech team does on a daily basis.
+
+
+I'm so late at it, that there's even a page making fun of the term. For the record, I don't do ANY of the superlatives in that definition, and some of the skill I miss completely, but I do have a process and most importantly, opinions.
+
+
+> Mythical user experience designer with an advanced and adaptive skill range. Outstanding skills in graphic design, rapid prototyping, front end development, user testing, technical specifications, marketing and branding. It does not have an opinion, it has a process, and will harmonize with any environment.
+
+
+
+
+
+[here](http://uxunicorn.com/)
