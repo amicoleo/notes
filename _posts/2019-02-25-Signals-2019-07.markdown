@@ -1,0 +1,51 @@
+---
+layout: post
+title:  Beyond voice assistants skills, beds, TV and robot arms - Weeknote 2019/7
+date:   2019-02-25 10:08:05 +0100
+categories: weeknotes
+---
+
+_3 (approx) interesting things, found (approx) this week. Also on [Powered by Uniform](https://medium.com/uniform-creative-technology/tagged/weeknotes) Medium publication._
+
+
+With the Creative Technology team at Uniform we always strive to think differently about technologies. We definitely like more simple ideas that challenge what a specific technology allows to do, to ideas that are richer, but don't push the medium in any new direction - I like to see it as a preference for ideas with rich features rather then features-rich.
+
+In the past 12 months we've worked on three different projects using Amazon Echo and Google Home. For different reasons, we didn't develop them further than rough prototypes, but together they are a great example of our out-of-the-box thinking with emerging technologies. Here it is: [Beyond skills: doing something different with voice assistants](https://medium.com/uniform-creative-technology/beyond-skills-doing-something-different-with-voice-assistants-f2446f9d2415)
+
+
+
+# Findings
+## 1. Ford lane-keeping bed (2019)
+
+Ford has released a video of a smart bed prototype that detects when one partner takes too much space and roll them back to their side of the bed.
+
+> Just a prototype, the “Lane-Keeping Bed” is part of a series of Ford Interventions, including the Noise-Cancelling Kennel, all of which apply automotive expertise to tackle everyday – or in this case, every night – problems.
+
+I like the bed and I love this Ford Interventions initiative. It presents the company in a completely new way, and I also believe this self sector-stealing approach - repurposing your own technology in some other area - is great to come up with weird, new product ideas. Surely this sounds much more exciting of the usual software people approach to smart products: put sensors, collect data.
+
+A very similar example was from last year, when car maker Nissan released a video of a Japanese traditional guest-house equipped with [self-driving slippers](https://www.dezeen.com/2018/02/02/nissans-self-driving-slippers-park-themselves-cars-technology/)
+
+
+[here](https://fordeurope.blogspot.com/2019/02/fords-smart-bed-rolls-selfish-sleepers.html)
+
+
+## 2. Playdeo's Avo! (2019)
+
+Some former people from BERG (Little Printer, etc.) have a new company and recently launched their first product. It's an interactive story for Smartphones in which you control the character of an Avocado in real filmed scenes, helping its owner, an inventor, solving mysteries.
+
+It's a new kind of hybrid between TV and mobile gaming, and for the first two episodes that I watched/played, very very interesting.
+
+I also recommend to read [Jack Schulze post](https://medium.com/playdeo/introducing-playdeo-abf0bebbc53e) about the company and their first release, it's truly inspiring.
+
+> Playdeo operates from the notion that invention is a joyful act. At every stage of my working life I’ve used invention — to produce images, films, even products — with the ambition that people will find joy in the particular kinds of connection it affords. For me there is a politics to approaching the craft this way — it’s optimistic.
+
+
+
+
+[here](https://itunes.apple.com/app/avo/id1452511688)
+
+##  3. Hexbot: The Modular All-In-1 Desktop Robot Arm For Everyone (2019)
+
+This is cool. A robotic arm with modular "hands" that can 3D print, laser engrave, draw and move things around.
+
+[here](https://www.kickstarter.com/projects/hexbot/hexbot-versatile-all-in-1-desktop-robot-arm-for-ev)

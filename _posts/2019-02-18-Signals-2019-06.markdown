@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  XXX - Weeknote 2019/6
+title:  American Pioneers' influence on design and findings  - Weeknote 2019/6
 date:   2019-02-18 10:08:05 +0100
 categories: weeknotes
 ---
@@ -8,10 +8,7 @@ categories: weeknotes
 _3 (approx) interesting things, found (approx) this week. Also on [Powered by Uniform](https://medium.com/uniform-creative-technology/tagged/weeknotes) Medium publication._
 
 
-
-
-
-The Culture Map by Erin Meyer is a book about how people from different parts of the world communicate and work with each other. On the chapter about decision making, one passage about Americans particularly struck me.
+[The Culture Map](https://www.erinmeyer.com/) by Erin Meyer is a book about how people from different parts of the world communicate and work with each other. On the chapter about decision making, one passage about Americans particularly struck me.
 
 
 > Being successful as the pioneers spread west across the American plains depended on arriving first and working hard, regarding mistakes as an inevitable and ultimately insignificant effect of speed.
@@ -66,7 +63,7 @@ Ishii is considered the pioneer of the so-called tangible user interfaces, a res
 
 > It is an incredible honor for me as an HCI researcher, and I’m extremely excited for this recognition of the Tangible Media group’s quarter-century battle against the ‘pixel empire’ of graphical user interfaces,
 
-The [Media Lab Tangible Media page](https://www.media.mit.edu/groups/tangible-media/projects/) contains all kind of sci-fi looking shape shifting material researches, but I took the occasion for going back to the research paper that Ishii co-wrote that was the beginning of it all: it's still hot. 
+The [Media Lab Tangible Media page](https://www.media.mit.edu/groups/tangible-media/projects/) contains all kind of sci-fi looking shape shifting material researches, but I took the occasion for going back to the research paper that Ishii co-wrote that was the beginning of it all: it's still hot.
 
 
 [here](https://trackr-media.tangiblemedia.org/publishedmedia/Papers/331-Tangible%20Bits%20Towards%20Seamless/Published/PDF)
