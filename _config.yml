@@ -40,3 +40,9 @@ plugins:
 # Social - SEO
 twitter:
   username: orgonomyprod
+
+# jekyll_picture_tag
+picture:
+  source: "assets"
+  output: "assets/generated"
+  relative_url: false
