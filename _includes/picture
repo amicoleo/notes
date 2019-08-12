@@ -1,0 +1,2 @@
+
+<img src="{{ site.url }}{{site.baseurl}}/assets/{{include.name}}" > 

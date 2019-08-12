@@ -35,7 +35,8 @@ I've condensed this thinking in a longish Medium post here:[ In Praise of Creati
 
 ## 1. Guardian CO2 flight calculator (2019)
 
-{% picture GuardianCO2.png %}
+{% include picture name="GuardianCO2.png" %}
+
 
 
 This powerful and insightful interactive visualisation by the Guardian compares the CO2 emitted by a single flight with the annual emission of a person in dozen of countries in the world. Yes it is comparable, and yes it is concerning.
@@ -50,7 +51,8 @@ This powerful and insightful interactive visualisation by the Guardian compares 
 ##  2. Do Not Draw a penis (2019)
 
 
-{% picture MonikerPenis.png %}
+{% include picture name="MonikerPenis.png" %}
+
 
 A new small site by the always excellent Moniker. It uses machine learning to recognise a very specific doodle and then uses it to form a dataset of that specific drawing. Nice!
 
@@ -61,7 +63,8 @@ Do Not Draw a Penis functions as an agent to collect inappropriate doodles from 
 
 ## 3. Nuovo Oracolo Cittadino (2019)
 
-{% picture oracolo.jpeg %}
+{% include picture name="oracolo.jpeg" %}
+
 
 
 New project from me! This was done together with friend and collaborator [Federico Floriani](https://www.federicofloriani.com/). The project is physical installation representing an AI oracle. It was a good chance to play with text generation (Char-RNN), which I've never done before and overall great fun to work with Federico after quite some time.

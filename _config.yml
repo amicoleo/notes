@@ -36,14 +36,7 @@ google_analytics: UA-84210001-1
 
 plugins:
     - jekyll-seo-tag
-    - jekyll_picture_tag
 
 # Social - SEO
 twitter:
   username: orgonomyprod
-
-# jekyll_picture_tag
-picture:
-  source: "assets"
-  output: "assets/generated"
-  relative_url: false
