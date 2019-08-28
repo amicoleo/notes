@@ -17,4 +17,10 @@ We’ve been here before - a reminder that our technological fear are maybe fres
 Without trying to dismiss current worries, it’s important to get a perspective to know that what is now normalised
 
 Tobias revell
+
+
+
+On the other hand, being to respectful to the past stifled innovation and even scientific progress - Aristotele's belief that women had fewer teeth than man (look that up)
+
+
 https://www.theatlantic.com/technology/archive/2014/05/in-search-of-the-proto-memex/371385/
