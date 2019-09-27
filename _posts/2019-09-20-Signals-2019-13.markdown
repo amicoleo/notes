@@ -1,0 +1,79 @@
+---
+layout: post
+title:  The underground epoch of local fabrication, bad AI, misjudged AI and peel cups - Weeknote 2019/13
+date:   2019-09-24 10:08:05 +0100
+categories: weeknotes
+---
+
+
+[3-D Printers Could Help Spread Weapons of Mass Destruction](https://www.scientificamerican.com/article/3-d-printers-could-help-spread-weapons-of-mass-destruction/). Until I read this article last week, I didn't think about personal fabrication since a while.
+
+It was 2013 when Cody Wilson released the files for his design of the 3D printed gun Liberator. That news added a scary angle to the mostly optimistic maker movement, but it also showed that distributed manufacturing could really have a strong impact in society.
+
+I shared that enthusiasm for a future of distributed manufacturing, fab-labs and open-source consumer goods, and I'm still the most proud of the project I worked on around the topic with the [Hacking Households](http://www.hackinghouseholds.com/) team 👋.
+
+Since then, the whole maker revolution has deflated, and with consequences. In 2015 the poster-boy of personal manufacturing, 3D printer maker MakerBot, went through [serious layoffs](https://www.theverge.com/2015/10/8/9477999/makerbot-layoffs-employees-lawsuit) and closed all its shops. In 2017 US fablab chain Techshop [filed for bankruptcy](https://makezine.com/2017/11/15/techshop-closes-doors-files-bankruptcy/) despite around 9000 members around the country. And just this year in June, Make, the magazine and organiser of the MakerFair, [was saved from bankruptcy](https://techcrunch.com/2019/06/07/make-magazine-maker-media-layoffs/) just by some last minutes investments (Source: Martino, thanks!).
+
+ The article mentioned at the beginning is a warning by some researchers that "the proliferation of 3-D printers, combined with advances in artificial intelligence, could make it much easier for nations or individuals to covertly build nuclear, chemical and biological weapons.".
+
+
+This is not good news, but it got me thinking about that moment in a the lifetime of a technology, that in the [Gartner Hype Curve](https://www.gartner.com/en/research/methodologies/gartner-hype-cycle) is referred to as its curve of disillusionment. When media stops caring, investments are few and nobody seems to bother. Conversely, in this moment, there is space and time to work more freely, without the pressure and expectations of of the hype. This is where personal fabrication technology is at right now, in the middle of this curve of disillusionment, having its underground epoch.
+
+And if during this time I hope nobody's churning out lethal 3D printed weapons, I like to think that there's somebody that is now slowly and effectively working to somewhat turn those ideas of distributed manufacturing and open-source fabrication into something concrete, cool and with well-intentions. I'll wait. 
+
+<!-- into someething good.
+
+make a good use those ideas of open-
+
+If
+
+
+This is the
+
+https://chiefmartec.com/2018/01/one-thing-everybody-forgets-gartners-hype-cycle-martech/
+ -->
+
+
+# Findings
+## 1. ImageNet Roulette
+
+{% include picture name="muskchess.png" %}
+
+
+
+> ImageNet Roulette is a provocation designed to help us see into the ways that humans are classified in machine learning systems. It uses a neural network trained on the “Person” categories from the ImageNet dataset which has over 2,500 labels used to classify images of people.
+
+Have a look on how people (you, for instance) are classified by our current state of the art machine learning. Sometimes the results are funny (like in the classic photo I used, "Elon Musk smoking weed"), sometimes less, and more generally it makes clear why blindly trusting algorithms to in society is not a great idea.
+
+
+Also, I love the approach researcher Trevor Paglen and Kate Crawford used here, accompanying their [written analysis](https://www.excavating.ai/) about "The Politics of Images in Machine Learning Training Sets" work with a small project giving a quick, and interactive demonstration of the issues they talk about.
+
+*Be quick if you want to try this out, because "Starting Friday, September 27th this application will no longer be available online".*
+
+[here](https://imagenet-roulette.paglen.com/)
+
+## 2. Open AI's Emergent Tool Use from Multi-Agent Interaction (Hide and Seek)
+
+{% include picture name="hideseek.png" %}
+
+I have to admit that the photo above and the following headline lured me into this finding for all the wrong reasons.
+
+> OpenAI Tried to Train AI Agents to Play Hide-And-Seek but Instead They Were Shocked by What They Learned
+
+The headline is from a [post](https://towardsdatascience.com/openai-tried-to-train-ai-agents-to-play-hide-and-seek-but-instead-they-were-shocked-by-what-they-3ea32bf7fc95) on Towards Data Science, but in fact there's nothing "shocking" about the Open AI project, nor the author elaborates on what shocked him in the first place, despite title and photo clearly suggest some sort of emerging aggressive behaviour by the AI agents. So a well played click-bait operation (👏👏👏).
+
+
+
+In fact the project is a cool experiment showing emerging behaviour for a reinforcement learning algorithm, the kind that learn out how to achieve something by trying stuff our and see what work best. In this case for hide and seek.
+
+[here](https://openai.com/blog/emergent-tool-use/)
+
+
+## 3. feel the peel - 3D printed glass from orange peel
+
+{% include picture name="Carlo-Ratti-Associati-orange-juice-bar-1.png" %}
+
+Experiments in circular design. Italian design and technology studio Carlo Ratti Associati made a juicer/3D printer machine that creates glasses with the orange peels.
+
+
+[here](https://www.designboom.com/technology/carlo-ratti-bioplastic-cups-orange-feel-the-peel-09-09-2019/\)
