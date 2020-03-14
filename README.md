@@ -2,7 +2,7 @@
 
 Run locally
 ```
-bundle exec jekyl serve
+bundle exec jekyll serve
 ```
 
 Open CMS GUI available at `http://localhost:4000/admin/`

@@ -1,0 +1,134 @@
+---
+layout: post
+title:  Food inspired innovation - Weeknote 2020/01
+date:   2020-01-16 10:08:05 +0100
+categories: weeknotes
+---
+
+This issue comes after a long time and from a weird one. Globally and especially in my country Italy, since some weeks friends and family has been staying home from work and school, following a state-wide effort aimed at containing the Covid 19.
+
+In Munich, Germany where I'm currently living, no such drastic measures are in place (yet), but as an independent company policy all of us at IXDS since next week will be working from home, whenever possible.
+
+And with more time at home, I thought this was a good moment to pick up the blog again, to re-open the RSS feed gates and start to go through thoughts and notes I've been scattered around in the post month.
+
+---
+
+I've recently read a book about food by Italian historian Massimo Montanari titled "Il riposo della polpetta" (The rest of the meatball). One of the idea that Montanari refers to a lot in his writing, is from historian Marc Bloch, the Myth of the Origin.
+
+The Myth of the Origin is about the diffused tendency to consider cultural objects as if they came to be magically and fully formed at some point in time. This is what leads many people to be extremely protective when it comes to culinary traditions, which is good for protecting tried and tested recipes, but can prevent us to explore new flavours, potentially even more exciting than what we've tried already.
+
+Acknowledging that our current traditions were actually innovations some time ago, facing the same criticism by the traditionalist of the time, can help us being more confident when creating something new.
+
+Also, looking at how food culture evolved over time can be an inspiring reference when it comes to design and technology. Because if certain design and technological innovations can be captured in time through the issue of a patent or a product lunch, the ideas that leads to those innovations work much more like in food culture.
+
+Ideas move around from individual to individual and from organisation to organisation. And are used, modified, incorporated or also inspire other ideas according to needs, circumstances or chance.
+
+
+And like in the kitchen, common sense and experimentation, rather than being too stuck on existing processes and traditions, are good skills for creating something new.
+
+Sure, a tomatoes and Nutella sandwitch might not be a good idea. But finishing risotto with miso and tahini instead then butter and parmesan cheese could work well (it does).
+
+<!--
+
+
+
+
+
+
+Ignoring that traditions were actually innovations some time ago, and that probably also had people criticizing them because they were too different from whatever was traditional in their time.
+
+But it's also what
+
+Especially when ignoring to consider that traditions were actually innovations some time ago, and that probably also had people criticizing them because they were too different from whatever was traditional in their time.
+
+
+ Which is surely a positive thing when
+
+can be a good thing when pro but also very defensive to every attempt to evolve them into something new.
+
+Especially when ignoring to consider that traditions were actually innovations some time ago, and that probably also had people criticizing them because they were too different from whatever was traditional in their time.
+
+experimentations and changes to traditions before them, and that most likely they also
+
+
+whenever somebody proposes something that
+
+protect culinary traditions, which can be a good thing, but
+
+and trying to protect them at all costs, whi
+
+and make some people protective of culinary traditions, even
+
+We need to protect the
+
+(for instance, )
+
+ and that for that reason they should
+
+
+
+
+What does that mean for invention?
+
+If certain design and technological innovations can be captured in time through the issue of a patent or a product lunch.
+
+The ideas that leads to those innovations work much more like food culture. Ideas move around from individual to individual and from organisation to organisation. And are used, modified, incorporated or also inspire other ideas according to needs, circumstances or chance.
+
+
+
+Respect for the origin but not -->
+
+----
+
+
+
+Another thing worth to share from my side.
+
+I've started an interview series about AI and Design. The first on it's with Andreas Refsgaard, who had great things to share about teachable interfaces and prototyping with machine learning. [The secret advantage of prototyping with machine learning: An interview with Andreas Refsgaard](https://medium.com/me/stats/post/76faa6c0d063).
+
+
+
+
+
+
+
+
+
+
+
+
+# Findings
+
+## 1. Pornhub Premium free in Italy to keep them company while at home (2020)
+
+{% include picture name="porhnub.png" %}
+
+This is cute and smart.
+
+[here](https://thenextweb.com/shareables/2020/03/12/pornhub-free-italy-coronavirus/)
+
+
+## 3. Paper Phone & Envelope (2019 & 2020)
+
+{% include picture name="paperphone.png" %}
+{% include picture name="envelope.png" %}
+
+Two calm technolgy projects hacking your phone to make you use less of it.
+
+Paper phone is an app that allows you to print on a piece of paper all the most important information for one day, like maps, contacts and calendar. So that for that day you can leave your phone at home.
+
+Envelope is a set of cardboard boxes each transforming your phone into a single function device.
+
+I love Special Projects.
+
+[here](http://specialprojects.studio/project/paper-phone/) and
+[here](http://specialprojects.studio/project/envelope/)
+
+## 2. Hey Robot (2019)
+
+{% include picture name="heyRobot.png" %}
+
+A game to play with friends and a voice assistant. Each person tries to make Google Home or Alexa to say a specific word by saying its definition. For instance: "what is that animal that has a long neck".
+
+
+[here](https://everybodyhousegames.com/heyrobot.html)
