@@ -108,7 +108,7 @@ This is cute and smart.
 [here](https://thenextweb.com/shareables/2020/03/12/pornhub-free-italy-coronavirus/)
 
 
-## 3. Paper Phone & Envelope (2019 & 2020)
+## 2. Paper Phone & Envelope (2019 & 2020)
 
 {% include picture name="paperphone.png" %}
 {% include picture name="envelope.png" %}
@@ -124,7 +124,7 @@ I love Special Projects.
 [here](http://specialprojects.studio/project/paper-phone/) and
 [here](http://specialprojects.studio/project/envelope/)
 
-## 2. Hey Robot (2019)
+## 3. Hey Robot (2019)
 
 {% include picture name="heyRobot.png" %}
 
