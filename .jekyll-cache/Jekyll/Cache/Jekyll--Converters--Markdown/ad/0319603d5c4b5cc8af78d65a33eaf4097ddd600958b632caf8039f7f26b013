@@ -1,0 +1,42 @@
+I"^<p>End of week notes and 3 (approx) interesting things, new or old, found (approx) this week.</p>
+
+<h1 id="notes">Notes</h1>
+
+<p>Again on the Smart Home project I’ve mentioned about last time. To get a bit more into details, our aim with the project is to create a living environment specifically designed for shared-living situations. This is our response to a common trend in technologies (for instance AR, VR, smart headphones) to isolating people from each other, and to the increasingly common scenario of people sharing apartments due to raising cost of living, especially in major cities. As part of the project, some time this week was spent in synthesizing our thinking into a theme, a single expression that would represent our approach.</p>
+
+<p>This is something we’ve done in the past as well. Sweet Tweet, Uniform’s first Creative Technology project, was developed under the theme of <a href="http://olduniform.uniformstaging.net/work/projects/uniform-sweet-tweet/"><em>Physical Apps</em></a>. More recently, the project Solo, came out of a workshop in which we explored an interaction design framework we called <a href="https://uniform.net/about/blog/designing-with-ai"><em>AI personas</em></a>. And many of our favourite people in design and tech make large use of names and expressions to guide their work. To mention some of my favourite, Berg’s <a href="http://berglondon.com/blog/2010/09/04/b-a-s-a-a-p/">B.A.S.A.A.P</a> and Mark Wieser’s <a href="https://calmtech.com/papers/designing-calm-technology.html">Calm Technology</a>.</p>
+
+<p>Our intention going forward is to try being more explicit in creating a <em>theme</em> for each of our R&amp;D work exploring a specific technology. As we noticed that having a well thought name makes a great starting point for ideation, a useful reference during development and a clear focus when talking about our work, both internally and externally.</p>
+
+<p>That’s why it’s worth to give it some time. And why despite the great amount of scrap paper with names scribbled on it, the decision on what the name for our new theme is postponed to next week.</p>
+
+<h1 id="findings">Findings</h1>
+
+<h2 id="1-rollable-display-2018">1. Rollable Display (2018)</h2>
+
+<p>I haven’t stumbled in a new concept for a physical media device in a while. And if the idea of a rollable display is not new, it might be now actually possible to manufacture such a thing (and with high resolution) using Flexible Organic LED (FOLED) displays (via <a href="https://twitter.com/gnat">@gnat</a>)</p>
+
+<p><a href="https://static1.squarespace.com/static/519d10a2e4b090350a2b66a0/t/5b81943b0e2e72fa78f1fcc5/1535218819039/MagicScrollWand-MobileHCI2018+Final+CRC+v6.0.pdf">here</a></p>
+
+<h2 id="2-anatomy-of-ai-2018">2. Anatomy Of AI (2018)</h2>
+
+<p>On my radar for a while, but it took some days before a got a chance to read it. It’s a dense reading dissecting the resources, human labour and technologies involved in the functioning of a smart speaker, specifically an Amazon Echo. Plenty of glorious quotable bits.</p>
+
+<blockquote>
+  <p>But in this fleeting moment of interaction, a vast matrix of capacities is invoked: interlaced chains of resource extraction, human labor and algorithmic processing across networks of mining, logistics, distribution, prediction and optimization.</p>
+</blockquote>
+
+<blockquote>
+  <p>The scale of resources required is many magnitudes greater than the energy and labor it would take a human to operate a household appliance or flick a switch.</p>
+</blockquote>
+
+<p>By researchers Kate Crawford and Vladan Joler (who in the past did a similar in-depth analysis of Facebook with his <a href="https://labs.rs/en/category/facebook-research/">Share Lab</a>)</p>
+
+<p><a href="https://anatomyof.ai/">here</a></p>
+
+<h2 id="3-colour-calendar-2018">3. Colour Calendar (2018)</h2>
+
+<p>Friend Jonathan Chomko has launched a Kickstarter of a weird, brilliant product. It’s a calendar looking thing that you hang on the wall like a calendar and turn pages like a calendar, except that there’s no dates and no place for writing anything. Each spread of the book is two full pages of carefully selected colours you can change when you want a new mood in the room. Hard to explain by words, you can get a better idea by looking at it on the Kickstarter page.</p>
+
+<p><a href="https://www.kickstarter.com/projects/2460460/colour-calendar?ref=project_build">here</a></p>
+:ET

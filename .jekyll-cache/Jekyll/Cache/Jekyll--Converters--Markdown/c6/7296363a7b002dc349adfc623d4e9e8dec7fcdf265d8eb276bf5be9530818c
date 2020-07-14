@@ -1,0 +1,48 @@
+I"�<p><em>End of week notes and 3 (approx) interesting things, new or old, found (approx) this week. Also on <a href="https://medium.com/uniform-creative-technology/tagged/weeknotes">Powered by Uniform</a> Medium publication.</em></p>
+
+<!--  
+The weeknote structure
+
+Do yourself a favour, write it first on paper
+
+1. Context
+2. Problem
+3. Solution
+
+-->
+
+<p>We had a quick workshop and one of the outcomes was an interactive prototype to demonstrate our idea.</p>
+
+<p>When the requirement is to have an experience prototype, focussed on a single feature to be tested or demonstrated, and speed (1-3 days), I found planning how much to modularise being the most crucial aspect of the whole development.</p>
+
+<p>To turn one application block into a reusable module is time consuming, but if the module is used often enough throughout the application, it will definitely save time after. On the other hand, without the requirement of maintainability of a prototype application, writing ad-hoc code(hard-coded values, copied and pasted functions and other software engineering aberration and <a href="https://en.wikipedia.org/wiki/Spaghetti_code">spaghetti coding</a> trade-marks) can be just good enough for the job.</p>
+
+<p>And the most effective way to decide what to modularise and what to code ad-hoc is a lot of scribbling. Having at hand the focus of the prototype clearly stated and visible on a piece of paper, and then, iterations after and iterations of flow-charts and code structure drawings (which for me, regardless if I’m working with modules in javascript or object-oriented programming in Openframeworks/C++, is some simple version of <a href="https://en.wikipedia.org/wiki/Class_diagram">Class diagrams</a>).</p>
+
+<p>Once the diagrams are detailed enough in terms of structure and it looks like something that can be done fast and that would be effective for the demonstration or testing, just then is time to code. Every extra minute spent sketching and refining the diagrams, is countless time (and frustration) saved during development.</p>
+
+<h1 id="findings">Findings</h1>
+
+<h2 id="1-hypersurfaces-2018">1. HyperSurfaces (2018)</h2>
+
+<p>HyperSurfaces uses vibration sensors and AI algorithms to turns any surface into an interface, recognising gestures and objects colliding onto the surface. From the CEO of the company Zamborlin:</p>
+
+<blockquote>
+  <p>it is difficult to imagine what the applications of HyperSurfaces technology might end up being, in a similar way as it was difficult to imagine 10 years ago all of the applications a mobile phone could enable. The most immediate ideas include the possibility of creating technological objects made of materials that until now haven’t been associated with technology at all, such as wood, glass and different kinds of metal etc.</p>
+</blockquote>
+
+<p>I love the potential of this, and I’m also excited about the big design challenge of this technology: to turn a feature-less surface/object into a usable interface. To say it with <a href="https://www.interaction-design.org/literature/book/the-glossary-of-human-computer-interaction/affordances">Don Norman’s definition</a> of affordance: the “perceived and actual properties of the thing, primarily those fundamental properties that determine just how the thing could possibly be used.”</p>
+
+<p><a href="https://www.futurism.com/the-byte/hypersurfaces-smart-surface">here</a></p>
+
+<h2 id="2-privacy-not-included-2018">2. Privacy Not Included (2018)</h2>
+<p>Mozilla’s shopping guide for the privacy minded. Nicely done website, accessible and informative</p>
+
+<p><a href="https://foundation.mozilla.org/en/privacynotincluded/">here</a></p>
+
+<h2 id="3-thingscon-conference-2018">3. Thingscon conference (2018)</h2>
+
+<p>New sleek website for the organisation, and the 2018 Rotterdam conference is out, with our <a href="https://thingscon.org/ai-personas-an-intuitive-framework-for-designing-intelligent-connected-objects/">AI personas</a> workshop too!</p>
+
+<p><a href="https://thingscon.org/program-2018/">here</a></p>
+:ET

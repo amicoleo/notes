@@ -1,0 +1,16 @@
+I"�<p>Catching up with some readings on AI and design, I’ve re-read Fabien Girardin’s great <a href="https://towardsdatascience.com/when-automation-bites-back-8541b061d5ee">When Automation Bites Back</a>.</p>
+
+<p>The post is a thoughtful overview on how automation is sometimes against people’s interest and present some thoughtful and practical guidelines on how to design AI product differently.</p>
+
+<p>But what particularly struck me was Fabien’s image of “stubborn” automation:</p>
+
+<blockquote>
+  <p>stubborn autonomous behaviours are intentionally designed as the core of business models that trades human control for convenience.</p>
+</blockquote>
+
+<p>Of course I love personification metaphors when talking about designing with AI, in fact our project Solo came from <a href="https://medium.com/@orgonomyprod/designing-with-ai-53bda7b6042f">something like that</a>, so I allowed myself to play a bit with it.</p>
+
+<p>One one end we have Fabien’s “Stubborn AI”. This is one that has a very precise knowledge (it’s trained with a lot of data) and can take all decisions autonomously (never requires any guidance from the user) but can be inflexible even on critical cases (and that’s when the issue arises).</p>
+
+<p>But what if we flip that around? What we have, is some kind of “humble AI”. This is an approach to autonomy that needs adapting before being useful (with an initial ad-hoc training by the user), is always open to adapt its behaviour (can be constantly updated with new instructions) and whenever unsure, it requires the user’s intervention (and learns from it). Yes, there will be some tradeoff in term of “seamlessness”, but I feel that this “humble AI” is a better, more human-aware way for our relationship with smart stuff.</p>
+:ET

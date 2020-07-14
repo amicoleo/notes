@@ -1,0 +1,96 @@
+I"�<p>I’ve been lately reading about the Whole Earth Catalogue and British avant-garde group Archigram. One term that came up a lot is “gadget”, and for the first time I realized how different connotations that word has in English and in Italian. I did a little internet research about it.</p>
+
+<p><strong>Gadget</strong>, from Oxford Dictionaries (<a href="http://www.oxforddictionaries.com/definition/english/gadget">link</a>)</p>
+
+<blockquote>
+  <p>A small mechanical or electronic device or tool, especially an <strong>ingenious or novel one</strong></p>
+</blockquote>
+
+<p><strong>Gadget</strong>, from Treccani (<a href="http://www.treccani.it/vocabolario/gadget/">link</a>)</p>
+
+<blockquote>
+  <p>Termine usato talvolta in tono iron. o spreg. per indicare dispositivi meccanici, elettrici o elettronici (accessorî per la casa o per l’automobile, oggetti di uso personale, ecc.), <strong>il cui acquisto non soddisfa un reale bisogno e la cui utilizzazione risulta quindi sporadica o comunque sproporzionata rispetto al prezzo</strong>; anche, accessorio offerto in omaggio come richiamo pubblicitario.</p>
+</blockquote>
+
+<p>(Term sometimes used ironically to indicate mechanical, electric or electronic devices, <strong>the acquisition of which does not meet a real need and whose use is therefore sporadic or at least disproportionate to the price</strong>; Also, accessory offered free as for advertising)</p>
+
+<p>This is at least hilarious if you consider I’m a creative technologists developing connected products, raised in Italy and working in the UK.</p>
+
+<p>To complicate things further, “The Gadget” was how was dramatically nicknamed the first atomic bomb (<a href="https://en.wikipedia.org/wiki/Trinity_(nuclear_test)#The_Gadget">link</a>)</p>
+
+<p>And finally,  the origin of the word seems to go back to a term used by sailors in late 19th century, <em>probably from French gâchette ‘lock mechanism’ or from the French dialect word gagée ‘tool’</em> (<a href="http://www.oxforddictionaries.com/definition/english/gadget">Oxford</a>). Just two months ago I was in Scotland for a design sprint with a great group of designers, coders, professionals working around internet connected devices (<a href="https://github.com/openiotstudio">OpenIOT</a>). In there together with <a href="https://twitter.com/peterbihr">Peter Bihr</a> and <a href="http://studiolab.ide.tudelft.nl/studiolab/hrobbins/">Holly Robbins</a> we drafted a series of notes about what 19th century ship-makers and sailors of Antstruther, the small, old fisherman village where we were staying, could teach us about designing robust connected systems (you can check the document we wrote, together with some notes at <a href="http://www.thewavingcat.com/2016/06/26/fishermans-iot/">Peter’s blogpost</a>). Apparently ours was not the first time old fishermen and digital technologies met each other.</p>
+
+<!--
+
+and as a
+
+
+
+
+This is rather,
+a great part of my job at Uniform consists in making prototypes of electronic devices,
+
+wrangling as I am between
+
+
+
+
+
+which brings to my mind a quick research I did together with,
+
+
+
+Not long ago, while at a week long design sprint about open iot, we spend some time with Peter Bihr and Ollie XXX trying to find in the way 19th century ship-makers and sailors of Antstruther, a small fisherman village in Scotland, could teach us about designing robust connected systems (you can check Peter's writing about the event in here).
+
+Apparently ours was not the only connection sailors has with digital technologies.
+
+
+
+hyronically
+[link](http://www.oxforddictionaries.com/definition/english/gadget)
+
+<div class="ngram-container">
+<iframe name="ngram_chart" src="https://books.google.com/ngrams/interactive_chart?content=gadget&year_start=1908&year_end=2008&corpus=15&smoothing=6&share=&direct_url=t1%3B%2Cgadget%3B%2Cc0" width="900" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no"></iframe></div>
+
+
+<div class="ngram-container">
+<iframe name="ngram_chart" src="https://books.google.com/ngrams/interactive_chart?content=gadget&year_start=1908&year_end=2008&corpus=22&smoothing=3&share=&direct_url=t1%3B%2Cgadget%3B%2Cc0" width="900" height="500" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no"></iframe></div>
+
+
+
+
+<iframe name="ngram_chart" src="https://books.google.com/ngrams/interactive_chart?content=gadget&year_start=1908&year_end=2008&corpus=22&smoothing=3&share=&direct_url=t1%3B%2Cgadget%3B%2Cc0" width=900 height=500 marginwidth=0 marginheight=0 hspace=0 vspace=0 frameborder=0 scrolling=no></iframe>
+
+<!--
+
+
+
+The word seems
+
+According again from the page above,
+
+
+
+
+<iframe src="//giphy.com/embed/5ukMBa9TXFBvy" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="http://giphy.com/gifs/inspector-gadget-5ukMBa9TXFBvy">via GIPHY</a></p>
+
+
+
+
+
+It's interesting to see how much more common is the use of the worlds with the plural, gadgets. It's always about a few of them, isn't it?
+
+<iframe name="ngram_chart" src="https://books.google.com/ngrams/interactive_chart?content=gadgets%2C+gadget&case_insensitive=on&year_start=1908&year_end=2008&corpus=15&smoothing=6&share=&direct_url=t4%3B%2Cgadgets%3B%2Cc0%3B%2Cs0%3B%3Bgadgets%3B%2Cc0%3B%3BGadgets%3B%2Cc0%3B.t4%3B%2Cgadget%3B%2Cc0%3B%2Cs0%3B%3Bgadget%3B%2Cc0%3B%3BGadget%3B%2Cc0" width=900 height=500 marginwidth=0 marginheight=0 hspace=0 vspace=0 frameborder=0 scrolling=no></iframe>
+
+
+According again to
+
+
+
+
+
+
+
+
+https://github.com/OpenIotOrg/openiot/wiki -->
+:ET
