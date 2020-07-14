@@ -32,3 +32,6 @@ gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
 #SEO
 gem 'jekyll-seo-tag'
+
+
+gem "rack", ">= 2.1.4"
