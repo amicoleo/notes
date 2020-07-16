@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Methodolatry
+title:  Methodolatry - 2020/03
 date:   2020-07-14 10:08:05 +0100
 categories: notes
 ---
