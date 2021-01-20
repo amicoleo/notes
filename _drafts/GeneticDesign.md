@@ -5,4 +5,4 @@ date:
 categories:
 ---
 
-http://www.joelsimon.net/corals.html
+https://www.joelsimon.net/corals.html

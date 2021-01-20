@@ -19,7 +19,7 @@ And somehow it all came together after the election, when he finally taps into a
 
 > "What I’m suggesting is that the lens through which people understand politics and politicians is extraordinarily powerful. And Trump understands the new ecosystem, in which facts and truth don’t matter. You attract attention, rouse emotions, and then move on.""
 
-[link](http://www.newyorker.com/magazine/2016/11/28/obama-reckons-with-a-trump-presidency)
+[link](https://www.newyorker.com/magazine/2016/11/28/obama-reckons-with-a-trump-presidency)
 
 ## 2) Benjamin Bratton's note on Facebook and (what he calls) algorithmic populism (on Facebook)...
 

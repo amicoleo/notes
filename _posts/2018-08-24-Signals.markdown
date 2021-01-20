@@ -19,7 +19,7 @@ Start writing on a whiteboard. A text recognition system recognises what you are
 
 I love this and I think it's important. I wish more tech had the same attitude, so that in 10 years we won't find ourselves in flashy bubbles of AR and VR, alone.
 
-[here](http://www.cowlyowl.com/blog/relaunch-rebrand/)
+[here](https://www.cowlyowl.com/blog/relaunch-rebrand/)
 
 ## 3. Evolving Floorplans (2018)
 
@@ -27,4 +27,4 @@ I love this and I think it's important. I wish more tech had the same attitude, 
 
 I'm very much into genetic algorithms at the moment.
 
-[here](http://www.joelsimon.net/evo_floorplans.html)
+[here](https://www.joelsimon.net/evo_floorplans.html)

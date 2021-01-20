@@ -7,7 +7,7 @@ categories: weeknotes
 
 I was familiar with Don Norman and Roberto Verganti shared argument on design & innovation. In a nutshell: Human Centred Design is great for improving existing products but it doesn't work for inventing new ones (I agree, and have [my take](https://medium.com/@orgonomyprod/in-praise-of-creative-technology-7895a9148dfc) on that).
 
-But somewhat I missed this paper they wrote together: [Incremental and Radical Innovation: Design Research vs. Technology and Meaning Change](http://www.verganti.com/wp-content/uploads/2017/01/NormanVerganti.pdf).
+But somewhat I missed this paper they wrote together: [Incremental and Radical Innovation: Design Research vs. Technology and Meaning Change](https://www.verganti.com/wp-content/uploads/2017/01/NormanVerganti.pdf).
 
 
 If the paper it's like a summary of their known argument, what was new to me was the Mountaineering metaphor they use for talking about "incremental innovation" VS "radical innovation".

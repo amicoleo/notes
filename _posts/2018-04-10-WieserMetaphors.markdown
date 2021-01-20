@@ -9,9 +9,9 @@ description: ""
 
 ![Mark Wieser]({{site.baseurl}}/assets/WeiserHappy.jpg)
 
-At [Uniform](http://uniform.net/) we have recently started working on some ideas about the Connected Home. I took the opportunity to going through old Mark Wieser's [Ubicomp papers](http://www.ubiq.com/hypertext/weiser/UbiHome.html). For those who don't know him, Wieser's research while at PARC from late 80s - late 90s, has been pivotal in setting the scene to what more recently has been called the Internet of Things.
+At [Uniform](https://uniform.net/) we have recently started working on some ideas about the Connected Home. I took the opportunity to going through old Mark Wieser's [Ubicomp papers](https://www.ubiq.com/hypertext/weiser/UbiHome.html). For those who don't know him, Wieser's research while at PARC from late 80s - late 90s, has been pivotal in setting the scene to what more recently has been called the Internet of Things.
 
-In one of his paper in particular, [The World Is Not A Desktop](http://www.ubiq.com/hypertext/weiser/ACMInteractions2.html) from 1993, Mark reviews a number of metaphors of technological visions popular at the time, with the aim to demonstrate why his idea of invisible technology was superior to other research directions.
+In one of his paper in particular, [The World Is Not A Desktop](https://www.ubiq.com/hypertext/weiser/ACMInteractions2.html) from 1993, Mark reviews a number of metaphors of technological visions popular at the time, with the aim to demonstrate why his idea of invisible technology was superior to other research directions.
 
 What's surprising is that almost all of the metaphors mentioned by Mark are still actual now, in a way or another. So, as an exercise in perspective, here's my then-and-now state of technological metaphors, 1993-2018.
 
@@ -72,11 +72,11 @@ What's surprising is that almost all of the metaphors mentioned by Mark are stil
 
   Fast forward to our days, and "magic" is still a common resource that companies use when promoting and popularising their technologies. Supernatural is obviously the oldest way to talk about complex thing and also its use in technology was nothing new even in 1993.
 
-  Tobias Revell does some great [work on the topic](http://opentranscripts.org/transcript/internet-of-damned-things/). He gives an historical perspective on how every mayor technological advancement inevitably overflow into supernatural, and he also evocatively reminds us of the risks involved in dealing with "forces" we cannot control: "when magic goes wrong, the narrative of magic can quickly turn to horror", in other words: be honest to your users, or they'll run away with fear from your product.
+  Tobias Revell does some great [work on the topic](https://opentranscripts.org/transcript/internet-of-damned-things/). He gives an historical perspective on how every mayor technological advancement inevitably overflow into supernatural, and he also evocatively reminds us of the risks involved in dealing with "forces" we cannot control: "when magic goes wrong, the narrative of magic can quickly turn to horror", in other words: be honest to your users, or they'll run away with fear from your product.
 
 - **Virtual Reality**
 
-  It was the new big thing then. [Wired's Kevin Kelly](http://kk.org/mt-files/writings/virtual_lanier.pdf), went to Jaron Lanier's lab to get his mind blown at Jaron's virtual realities; the Lawnmower Man film made the concept popular for the general public; and [tons of tech companies](https://www.pcmag.com/feature/321996/12-vr-headsets-that-predate-oculus-don-t-tell-facebook/4) were jumping on the VR bandwagon. After that we had a brief winter, and again a popularity boost, peaked in 2014 with the acquisition of Oculus Rift by Facebook for $2bn. According to the usual Gartner, Virtual Reality is now just [surfing up the wave of disillusionment](https://www.gartner.com/smarterwithgartner/top-trends-in-the-gartner-hype-cycle-for-emerging-technologies-2017/). The technology is there, the lag problems that hindered its development in the past have been solved and the overall quality is incrementally improving. There are some specific fields where it is gradually finding applications - such as entertainment and 3D visualisation for architecture and product design - and my humble guess is that Virtual Reality has reached a plateau, and from now on interest and funds will migrate more and more towards its younger sibling: Augmented Reality.
+  It was the new big thing then. [Wired's Kevin Kelly](https://kk.org/mt-files/writings/virtual_lanier.pdf), went to Jaron Lanier's lab to get his mind blown at Jaron's virtual realities; the Lawnmower Man film made the concept popular for the general public; and [tons of tech companies](https://www.pcmag.com/feature/321996/12-vr-headsets-that-predate-oculus-don-t-tell-facebook/4) were jumping on the VR bandwagon. After that we had a brief winter, and again a popularity boost, peaked in 2014 with the acquisition of Oculus Rift by Facebook for $2bn. According to the usual Gartner, Virtual Reality is now just [surfing up the wave of disillusionment](https://www.gartner.com/smarterwithgartner/top-trends-in-the-gartner-hype-cycle-for-emerging-technologies-2017/). The technology is there, the lag problems that hindered its development in the past have been solved and the overall quality is incrementally improving. There are some specific fields where it is gradually finding applications - such as entertainment and 3D visualisation for architecture and product design - and my humble guess is that Virtual Reality has reached a plateau, and from now on interest and funds will migrate more and more towards its younger sibling: Augmented Reality.
 
 
 - **Voice Input**
@@ -95,4 +95,4 @@ What's surprising is that almost all of the metaphors mentioned by Mark are stil
 👋 Mark.
 
 _PS -
-Image is Mark Wieser playing drums with his band Severe Tire Damage and it's taken from the band page [here](http://www.std.org/text/Weiser.html)._
+Image is Mark Wieser playing drums with his band Severe Tire Damage and it's taken from the band page [here](https://www.std.org/text/Weiser.html)._

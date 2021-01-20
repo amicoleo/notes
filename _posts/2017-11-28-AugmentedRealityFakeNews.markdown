@@ -37,7 +37,7 @@ systems that are wearable and nearly invisible,
 so that individuals can move about and
 interact freely, supported by their personal
 information domain."
-http://www.eyetap.org/papers/docs/first_step.pdf
+https://www.eyetap.org/papers/docs/first_step.pdf
 
 .......
 
@@ -50,7 +50,7 @@ Same with adam greenfield argument about google maps not being neutral
 Radical Technologies
 .......
 
-http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.618.6977&rep=rep1&type=pdf
+https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.618.6977&rep=rep1&type=pdf
 
 Anne Galloway
 INTIMATIONS OF EVERYDAY LIFE

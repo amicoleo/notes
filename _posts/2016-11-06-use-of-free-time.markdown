@@ -20,7 +20,7 @@ In very different ways both share a common point, automatization - joy of making
 
  >I got a job as a software developer working mostly on testing software, so mostly QA work. However I actually had to write some code as well. After around 8 months I had basically automated my own job by writing some programs to do it all for me. After that I would mostly just browse forums and do absolutely jack shit at work. My boss never really checked in on me and as long as the needed tests were taken care of he didn't give a fuck.
 
-Until they realized and he got sacked and got desperate because he thinks he'd be unable to find a new programming job. I actually don't know how authentic is the story, but the post and comments are surely a great read. Here's the [link](http://web.archive.org/web/20160523114950/https://www.reddit.com/r/cscareerquestions/comments/4km3yc/finally_fired_after_6_years/) to the whole reddit post on the Wayback Machine (both the original post and the user had been deleted from reddit).
+Until they realized and he got sacked and got desperate because he thinks he'd be unable to find a new programming job. I actually don't know how authentic is the story, but the post and comments are surely a great read. Here's the [link](https://web.archive.org/web/20160523114950/https://www.reddit.com/r/cscareerquestions/comments/4km3yc/finally_fired_after_6_years/) to the whole reddit post on the Wayback Machine (both the original post and the user had been deleted from reddit).
 
 A special thought goes to you, that automatized yourself out of work and are still in the wild.
 

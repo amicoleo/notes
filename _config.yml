@@ -18,7 +18,7 @@ email: leonardo.amico@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
     Hi, I'm Leonardo Amico, a designer and technologist. Here is where I write about small experiments and quick thoughts.
 baseurl: "/notes" # the subpath of your site, e.g. /blog
-url: "http://orgonomyproductions.info" # the base hostname & protocol for your site
+url: "https://www.orgonomyproductions.info" # the base hostname & protocol for your site
 twitter_username: orgonomyprod
 github_username:  amicoleo
 

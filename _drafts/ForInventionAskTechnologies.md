@@ -78,7 +78,7 @@ Don Norman - User Research doesn't lead to innovation
 "Do people need them? That question is answered over the next several decades as the technology moves from technical demonstration, to product, to failure, or perhaps to slow acceptance in the commercial world where slowly, after considerable time, the products and applications are jointly evolve, and slowly the need develops."
 
 "The least interesting innovations to the university and company research community are the small, slow enhancements that gradually lower costs while improving performance. But in fact, not only is this where most product enhancement takes place, it is also where the research community can add the most value."
-http://www.jnd.org/dn.mss/technology_first_needs_last.html
+https://www.jnd.org/dn.mss/technology_first_needs_last.html
 
 or
 
@@ -139,7 +139,7 @@ https://www.huffingtonpost.com/gregory-ciotti/why-steve-jobs-didnt-list_b_562835
 
 ========
 
-http://www.menloparkmuseum.org/history/thomas-edison-and-menlo-park/
+https://www.menloparkmuseum.org/history/thomas-edison-and-menlo-park/
 
 
 Olivetti

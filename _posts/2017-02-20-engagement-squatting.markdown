@@ -25,7 +25,7 @@ Here's a related (fictional) scenario from David Foster Wallace's Infitine Jest.
 8. Year of the Depend Adult Undergarment
 9. Year of Glad
 
-(ref: [infinitejest.wallacewiki.com](http://infinitejest.wallacewiki.com/david-foster-wallace/index.php?title=Subsidized_Time))
+(ref: [infinitejest.wallacewiki.com](https://infinitejest.wallacewiki.com/david-foster-wallace/index.php?title=Subsidized_Time))
 
 **EDIT Feb 22, 2017**
 

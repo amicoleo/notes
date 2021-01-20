@@ -1,0 +1,62 @@
+I"^<p>Ok, this is a continuation as much as is a new beginning.</p>
+
+<p>First things first. Since last weeknote many thing happened. I’ve left Uniform, left Liverpool and the UK and moved to Munich, Germany where I’ve just started to work as a Creative Technologist Expert at IXDS.</p>
+
+<p>These have been truly amazing years. I’m thankful to have had a chance to collaborate and learn from all of you beautiful minds at Uniform! I wish you Mike, Timea and the new member of the Creative Technology team the best of luck (you won’t need it though :)) and I’m looking forward to see what you’ll work on!</p>
+
+<p>Obviously this means that the weeknotes won’t be published in the Uniform Medium channel any longer, but will live only in my personal blog. Apart from that, is my intention to regain momentum and go back to use this space in the same way as before, to keep track of inspiring projects and document quick thoughts on design and tech.</p>
+
+<p>Let’s go.</p>
+
+<hr />
+
+<p>Whenever in the past I approached a new self-initiated project, at Uniform or before that, there was always the discussion whether it should be about exploring a specific technology or about solving a user problem. Although the latter has often got a priority, looking back at my past projects, I’ve noticed that the most inventive ones started by freely trying to do something exciting with a specific technology. Some recent reads, and in particular the chapter on Invention in Jared Diamond’s excellent <a href="https://en.wikipedia.org/wiki/Guns,_Germs,_and_Steel">Guns,_Germs,_and_Steel</a> gave some more historical beef to my thesis: that inventions are mostly coming from technological exploration, rather that a strong focus on people’s need. This is not to say that user research and user testing are not necessary. Of course they are, but I believe that among (digital) designers there is the tendency to work in a level of abstraction too disconnected from the technology they are using, and especially if you want to create something new, it’s necessary to get your hands dirty with tech.</p>
+
+<p>I’ve condensed this thinking in a longish Medium post here:<a href="https://medium.com/@orgonomyprod/in-praise-of-creative-technology-7895a9148dfc"> In Praise of Creative Technology</a>*.</p>
+
+<p>*(the title is inspired by Junichiro Tanizaki’s beautiful essay on Japanese culture and aesthetic <a href="https://wwwedu.artcenter.edu/mertzel/spatial_scenography_1/Class%20Files/resources/In%20Praise%20of%20Shadows.pdf">In Praise of Shadows</a>, you should definitely read that too).</p>
+
+<hr />
+
+<h1 id="findings">Findings</h1>
+
+<h2 id="1-guardian-co2-flight-calculator-2019">1. Guardian CO2 flight calculator (2019)</h2>
+
+<p><img src="https://www.orgonomyproductions.info/notes/assets/GuardianCO2.png" /></p>
+
+<p>This powerful and insightful interactive visualisation by the Guardian compares the CO2 emitted by a single flight with the annual emission of a person in dozen of countries in the world. Yes it is comparable, and yes it is concerning.</p>
+
+<blockquote>
+  <p>The figures highlight the disproportionate carbon footprint of those who can afford to fly, with even a short-haul return flight from London to Edinburgh contributing more CO2 than the mean annual emissions of a person in Uganda or Somalia.</p>
+</blockquote>
+
+<p><a href="https://www.theguardian.com/environment/ng-interactive/2019/jul/19/carbon-calculator-how-taking-one-flight-emits-as-much-as-many-people-do-in-a-year">here</a></p>
+
+<h2 id="2-do-not-draw-a-penis-2019">2. Do Not Draw a penis (2019)</h2>
+
+<p><img src="https://www.orgonomyproductions.info/notes/assets/MonikerPenis.png" /></p>
+
+<p>A new small site by the always excellent Moniker. It uses machine learning to recognise a very specific doodle and then uses it to form a dataset of that specific drawing. Nice!</p>
+
+<blockquote>
+  <p>In 2018 Google open-sourced the Quickdraw data set. “The world’s largest doodling data set”. The set consists of 345 categories and over 15 million drawings. For obvious reasons the data set was missing a few specific categories that people enjoy drawing. This made us at Moniker think about the moral reality big tech companies are imposing on our global community and that most people willingly accept this. Therefore we decided to publish an appendix to the Google Quickdraw data set.
+Do Not Draw a Penis functions as an agent to collect inappropriate doodles from people who are not willing to stay within the moral guidelines set by our social network providers.</p>
+</blockquote>
+
+<p><a href="https://donotdrawapenis.com/">here</a></p>
+
+<h2 id="3-nuovo-oracolo-cittadino-2019">3. Nuovo Oracolo Cittadino (2019)</h2>
+
+<p><img src="https://www.orgonomyproductions.info/notes/assets/oracolo.jpeg" /></p>
+
+<p>New project from me! This was done together with friend and collaborator <a href="https://www.federicofloriani.com/">Federico Floriani</a>. The project is physical installation representing an AI oracle. It was a good chance to play with text generation (Char-RNN), which I’ve never done before and overall great fun to work with Federico after quite some time.</p>
+
+<blockquote>
+  <p>The Nuovo Oracolo Cittadino is an example of how emerging technologies can transform the mundane: an artificial intelligence fortune teller.
+From street cartomancy, fortune-telling always went through a technological upgrade. Television brought nigh-time dedicated shows on tarot reading and internet platforms lead to online consultation services. And with some bigger sites already using outsourced call-centres for offering consultations, with machine learning technologies becoming as accessible as creating a Wix or Wordpress site, AI fortune telling is just around the corner.</p>
+</blockquote>
+
+<p>More info including some tech notes in the Medium post linked below.</p>
+
+<p><a href="https://medium.com/@orgonomyprod/nuovo-oracolo-cittadino-new-city-oracle-38095e3781f9">here</a></p>
+:ET

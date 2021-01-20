@@ -11,7 +11,7 @@ End of week notes and 3 (approx) interesting things, new or old, found (approx) 
 
 Last week main focus was to finalize documentation for the Shared Home project, ahead of some meetings where we wanted to introduce the idea. The project is called Roommate and a [blog post](https://design.uniform.net/blog/roommate-bringing-comfort-into-the-shared-smart-home) about it is now live 🎉.
 
-But for of an exhibition that we’re preparing for this week's [Design Manchester](http://designmcr.com/events/conference-disruptm) event, I’ve also worked on some code for making a connected thermal printer prototype we use in the studio to also stream and print tweets and Instagram comments.
+But for of an exhibition that we’re preparing for this week's [Design Manchester](https://designmcr.com/events/conference-disruptm) event, I’ve also worked on some code for making a connected thermal printer prototype we use in the studio to also stream and print tweets and Instagram comments.
 
 Twitter has always been the poster-boy platform for IoT and internet experiments. Uniform’s [Sweet Tweet](https://vimeo.com/34845280), our first Creative Technology project from 7 years ago, was also listening for Twitter hashtags and doing something with it. There were actually some breaking changes on the Twitter API this year, but the ability to stream the public Twitter feed in search for a specific keyword, which is what I needed, is still perfectly available.
 

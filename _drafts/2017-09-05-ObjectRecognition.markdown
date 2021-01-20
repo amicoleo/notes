@@ -12,7 +12,7 @@ YOLO: You Only Look Once.
 Mobilenets: a family of mobile-first computer vision models for TensorFlow, designed to effectively maximize accuracy while being mindful of the restricted resources for an on-device or embedded application. ([link](https://research.googleblog.com/2017/06/mobilenets-open-source-models-for.html))
 
 
-Inception: A Convolutional Neural Network architecture for object recognition (without box detection). It went through a number of iterations, heres a overview of the,  http://nicolovaligi.com/history-inception-deep-learning-architecture.html
+Inception: A Convolutional Neural Network architecture for object recognition (without box detection). It went through a number of iterations, heres a overview of the,  https://nicolovaligi.com/history-inception-deep-learning-architecture.html
 
 COCO: dataset
 

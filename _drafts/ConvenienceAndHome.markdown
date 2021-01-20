@@ -9,7 +9,7 @@ categories:
 
 We've recently had a [workshop with kids](https://design.uniform.net/blog/kids-imagine-the-impossible-day), in which they were asked to imagine what their ideal home and city would be. One interesting thing I notice, was how determined they were in trying to find solutions for every small aspect of their lives that they didn't like.
 
-Some examples. One kid had the idea of a robot that did math for them and then downloaded the lesson into their head; a the bathtub tap releasing LEGO pieces as a reward, after finished washing; a toaster with an Xbox in front of it, so have some fun while the bread is being done (this particular concept, so close to [generations of screen equipped appliances](http://fuckyeahinternetfridge.tumblr.com/) is quite telling of the kid's and those company's designers creativity); a pan that prepares automatically a complete meal, chips and all.
+Some examples. One kid had the idea of a robot that did math for them and then downloaded the lesson into their head; a the bathtub tap releasing LEGO pieces as a reward, after finished washing; a toaster with an Xbox in front of it, so have some fun while the bread is being done (this particular concept, so close to [generations of screen equipped appliances](https://fuckyeahinternetfridge.tumblr.com/) is quite telling of the kid's and those company's designers creativity); a pan that prepares automatically a complete meal, chips and all.
 
 What I found the most interesting from these ideas, was they they weren't not just about having as much fun activities as possible, but most importantly, about automating all things that take away time from the fun.
 

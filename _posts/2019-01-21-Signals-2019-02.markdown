@@ -27,11 +27,11 @@ Some more news about our latest project Scout. We've just published a new in-dep
 
 ## 1. Project Alias (2019)
 
-Very nice project by Bjørn Karmann (who also did the brilliant [Objectifier](http://bjoernkarmann.dk/objectifier)) and Tore Knudsen. A parasite for voice assistants.
+Very nice project by Bjørn Karmann (who also did the brilliant [Objectifier](https://bjoernkarmann.dk/objectifier)) and Tore Knudsen. A parasite for voice assistants.
 
 > Alias is a teachable “parasite” that is designed to give users more control over their smart assistants, both when it comes to customisation and privacy. Through a simple app the user can train Alias to react on a custom wake-word/sound, and once trained, Alias can take control over your home assistant by activating it for you.
 
-[here](http://bjoernkarmann.dk/project_alias)
+[here](https://bjoernkarmann.dk/project_alias)
 
 
 ## 2. Wanna Nails (2018)

@@ -5,9 +5,9 @@ date:   2017-05-15 17:08:05 +0100
 categories:
 ---
 
-[Design as participation](http://jods.mitpress.mit.edu/pub/design-as-participation) by Kevin Slavin is one of those rare readings whose ideas are so powerful that you know it will hang around in your head for quite some time. I cannot actually imagine to find myself thinking about the theory and practice of design in the future, without confronting with this short essay; and in fact, in some sort of backward domino effect, I’m already questioning and revising old ideas, through this new perspective.
+[Design as participation](https://jods.mitpress.mit.edu/pub/design-as-participation) by Kevin Slavin is one of those rare readings whose ideas are so powerful that you know it will hang around in your head for quite some time. I cannot actually imagine to find myself thinking about the theory and practice of design in the future, without confronting with this short essay; and in fact, in some sort of backward domino effect, I’m already questioning and revising old ideas, through this new perspective.
 
-I didn't remember the name of Kevin Slavin whet I first saw his publication listed in the first issue of MIT Media Lab [Journal of Design and Science](http://jods.mitpress.mit.edu/), but as I googled his name I realized that he was the speaker in one of my the most cherished TED talk, [How algorithms shape our world](https://www.ted.com/talks/kevin_slavin_how_algorithms_shape_our_world). If my snobby attitude towards the whole TED enterprise that stopped me to explore Slavin’s work after that then, I’m all in catching up mode now.
+I didn't remember the name of Kevin Slavin whet I first saw his publication listed in the first issue of MIT Media Lab [Journal of Design and Science](https://jods.mitpress.mit.edu/), but as I googled his name I realized that he was the speaker in one of my the most cherished TED talk, [How algorithms shape our world](https://www.ted.com/talks/kevin_slavin_how_algorithms_shape_our_world). If my snobby attitude towards the whole TED enterprise that stopped me to explore Slavin’s work after that then, I’m all in catching up mode now.
 
 Going back to the essay in question, Design as Participation discusses about fundamental principles of modern practice of the discipline: user-centered design.
 

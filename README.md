@@ -5,7 +5,7 @@ Run locally
 bundle exec jekyll serve
 ```
 
-Open CMS GUI available at `http://localhost:4000/admin/`
+Open CMS GUI available at `https://localhost:4000/admin/`
 
 # USAGE
 - Add images in 'assets' folder and link them like this `{% include picture name="NAMEIMAGE.png" %}`
