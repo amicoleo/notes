@@ -1,2 +1,2 @@
 
-<img src="{{ site.url }}{{site.baseurl}}/assets/{{include.name}}" > 
+<img src="{{ site.url }}{{site.baseurl}}/assets/{{include.name}}" >

@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  For Bruno Munari, technology inspires product ideas
-date:   2020-08-04 10:08:05 +0100
+title:  Technology-inspired design in the work of Bruno Munari
+date:   2021-01-20 10:08:05 +0100
 categories: notes
 ---
 
@@ -17,15 +17,20 @@ But the reason while I feel especially close to Munari, as a designer working in
 
 One of Munari’s most famous work - for which he was awarded the Italian design award Compasso D'Oro in '54 - was the Zizì toy. Zizì is a monkey character made of polyurethane foam with a metal wire structure inside. So that the body is soft to touch, but heads, arms and body can be arranged in different positions when playing.
 
+
+
 The idea of the toy started when a manager from Pirelli, a Milan based plastic company, gave Bruno some pieces of the recently developed polyurethane foam material. So that Munari could explore what else they could do with it "beyond mattresses”, the product that the foam was generally used for.
 
 For Munari, “touching the foam material was like ‘cuddling a pet’”, so thinking about how to make a character out of it led him to the idea of the monkey. It was by working directly with the existing foam material, that Munari could invent a product that was original and also that could be industrially manufactured.
 
+{% include image.html name="zizimunari.jpeg" description="Zizì toy" %}
+
 A similar story happened with the Munari’s Falkland lamp, produced by Danese in 1964. In this case the starting point was quite unexpected. This is how Bruno tells it. "Since a long time I was thinking if elasticity as formal component of objects and a day I went in a stockings factory to see if they could do a lamp  - We don't do lamps, sir - You'll see that you will. So so it was".
 
-{% include picture name="02-bruno-munari-lampada-falkland.jpg" %}
 
 And so came the shape of the hanging lamp, with the added advantage that it could be packaged in a very small space, since there are only few rigid parts. The key to that ingenious product and the reason behind its unique organic shape, was the Bruno developed its design with the material in mind, and worked around its specific properties. For the Falkland lamp like for Zizì, the idea started from the material. In Bruno Munari’s design process, the technology is a resource to get inspired from, rather than a limitation to overcome.
+
+{% include image.html name="falkland.jpg" description="Falkland Lamp" %}
 
 Bruno summarizes it very well. "The secret is that I always start from the technique, not from the art. Many start from an idea and then they try to get it done at all costs. This is not my method. If you start from you know how far you can get. An industry has specifics techniques and technologies, so you try to make with those information that you have something different."
 
@@ -37,11 +42,12 @@ This idea certainly applies when working on industrial design products, like the
 
 Yes Bruno!
 
+{% include image.html name="munari.jpeg" description="Bruno Munari" %}
 
----
 
-References
+**References**
 
-https://www.goodreads.com/book/show/6095883-design-as-art
-https://www.elledecor.com/it/best-of/a32826233/zizi-monkey-munari-pigomma/
-https://www.munart.org/doc/corriere-della-sera-23-10-2007-mendini.pdf
+
+{% include footer-item.html link="https://www.goodreads.com/book/show/6095883-design-as-art" %}
+{% include footer-item.html link="https://www.elledecor.com/it/best-of/a32826233/zizi-monkey-munari-pigomma" %}
+{% include footer-item.html link="https://www.munart.org/doc/corriere-della-sera-23-10-2007-mendini.pdf" %}
