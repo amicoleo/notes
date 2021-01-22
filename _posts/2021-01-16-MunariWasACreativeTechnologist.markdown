@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Technology inspires design in the work of Bruno Munari
+description: In Bruno Munari’s design process, the technology is a resource to get inspired from, rather than a limitation to overcome.
 date:   2021-01-22 10:08:05 +0100
 categories: notes
 ---
@@ -39,7 +40,7 @@ Bruno summarizes it very well. "The secret is that I always start from the techn
 
 <!-- Bruno Munari's lesson is not not about getting fixated with a particular technology when trying to solve a problem. He surely saw no value in using a specific material if it's not appropriate for the product’s intended use. -->
 
-What I take from Munari’s approach is to be curious about technology. And especially, to learn enough to be able to explore it hands-on and figure out what things can be done. This idea certainly applies when working on industrial design products, like the ones of Munari, but I think is ever more valid when working with software and new technologies. First of all, so that we can have a sense if certain product or experience can be realized at all. But even more for inspiration, starting from the technology can be the key to creating innovative solution beyond what's has been done already.
+  What I take from Munari’s approach is to be curious about technology. And especially, to learn enough to be able to explore it hands-on and figure out what things can be done. This idea certainly applies when working on industrial design products, like the ones of Munari, but I think is ever more valid when working with software and new technologies. First of all, so that we can have a sense if certain product or experience can be realized at all. But even more for inspiration, starting from the technology can be the key to creating innovative solution beyond what's has been done already.
 
 Yes Bruno!
 
