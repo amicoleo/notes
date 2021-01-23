@@ -102,6 +102,8 @@ h2, .post-content h2{
 
 h1 > a.post-link{
   font-size: $title-font-size;
+  line-height: $title-font-size;
+  text-decoration: none;
 }
 
 
@@ -118,14 +120,19 @@ blockquote{
   padding-top: $spacing-unit;
   padding-bottom: $spacing-unit;
 
-  .home{
-    // font-family: $secondary-font-family;
-    font-weight: 800;
-    text-decoration: none;
-  }
-
 
 }
+
+a.home{
+  // font-family: $secondary-font-family;
+  font-weight: 800;
+  text-decoration: none;
+}
+
+.footer{
+  margin-top: 20px;
+}
+
 .archive{
   text-align: right;
 }

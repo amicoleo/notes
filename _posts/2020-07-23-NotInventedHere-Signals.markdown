@@ -39,10 +39,3 @@ Now compare it with Stories on Instagram, or to the Reel feature, or to Lens. Fo
 
 
 Steve Jobs liked to quote Picasso saying that good artist copy and great artist steal: Facebook's approach is definitely of the former kind. And as somebody excited by innovation and the future of products, I cannot really love a company whose "inventions" seem to have mostly been done elsewhere. You see, my heart has to be also elsewhere.
-
-
-<!--
-
-
-References
-- https://www.wired.com/2014/02/decade-facebooks-innovations/ -->

@@ -19,19 +19,8 @@ Since then, the whole maker revolution has deflated, and with consequences. In 2
 
 This is not good news, but it got me thinking about that moment in a the lifetime of a technology, that in the [Gartner Hype Curve](https://www.gartner.com/en/research/methodologies/gartner-hype-cycle) is referred to as its curve of disillusionment. When media stops caring, investments are few and nobody seems to bother. Conversely, in this moment, there is space and time to work more freely, without the pressure and expectations of of the hype. This is where personal fabrication technology is at right now, in the middle of this curve of disillusionment, having its underground epoch.
 
-And if during this time I hope nobody's churning out lethal 3D printed weapons, I like to think that there's somebody that is now slowly and effectively working to somewhat turn those ideas of distributed manufacturing and open-source fabrication into something concrete, cool and with well-intentions. I'll wait. 
+And if during this time I hope nobody's churning out lethal 3D printed weapons, I like to think that there's somebody that is now slowly and effectively working to somewhat turn those ideas of distributed manufacturing and open-source fabrication into something concrete, cool and with well-intentions. I'll wait.
 
-<!-- into someething good.
-
-make a good use those ideas of open-
-
-If
-
-
-This is the
-
-https://chiefmartec.com/2018/01/one-thing-everybody-forgets-gartners-hype-cycle-martech/
- -->
 
 
 # Findings

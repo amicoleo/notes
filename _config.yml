@@ -16,7 +16,7 @@
 title: ORGONOMY NOTES - the blog of Leonardo Amico
 email: leonardo.amico@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-    Thoughts around design, technologies and innovation. 
+    Thoughts around design, technologies and innovation.
 
 baseurl: "/notes" # the subpath of your site, e.g. /blog
 url: "https://www.orgonomyproductions.info" # the base hostname & protocol for your site
@@ -29,7 +29,7 @@ theme: minima
 
 #Paginate
 gem: [jekyll-paginate]
-paginate: 10
+paginate: 5
 paginate_path: "/page:num/"
 
 #Analytics
