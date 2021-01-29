@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: ORGONOMY NOTES - the blog of Leonardo Amico
+title: ORGONOMY NOTES - Leonardo Amico's blog on design, technology and innovation.
 email: leonardo.amico@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-    Thoughts around design, technologies and innovation.
+    Thoughts around design, technology and innovation.
 
 baseurl: "/notes" # the subpath of your site, e.g. /blog
 url: "https://www.orgonomyproductions.info" # the base hostname & protocol for your site
