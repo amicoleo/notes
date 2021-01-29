@@ -1,2 +1,7 @@
 
-<p class="footnotes"><a href="{{include.link}}">{{include.link}}</a></p>
+{% if include.link %}
+<p class="footnotes"><a href="{{include.link}}">{{include.text}}</a></p>
+{% else %}
+<p class="footnotes">{{include.text}}</p>
+
+{% endif %}
