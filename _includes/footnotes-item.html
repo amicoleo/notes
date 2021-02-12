@@ -1,6 +1,12 @@
 
 {% if include.link %}
+
+{% if include.text %}
 <p class="footnotes"><a href="{{include.link}}">{{include.text}}</a></p>
+{% else %}
+<p class="footnotes"><a href="{{include.link}}">{{include.link}}</a></p>
+{% endif %}
+
 {% else %}
 <p class="footnotes">{{include.text}}</p>
 
