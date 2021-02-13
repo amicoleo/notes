@@ -47,7 +47,6 @@ Yes Bruno!
 
 **References**
 
-
 {% include footnotes-item.html link="https://www.goodreads.com/book/show/6095883-design-as-art" %}
 {% include footnotes-item.html link="https://www.goodreads.com/book/show/12302521-bruno-munari" %}
 {% include footnotes-item.html link="https://www.elledecor.com/it/best-of/a32826233/zizi-monkey-munari-pigomma" %}
