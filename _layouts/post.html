@@ -1,6 +1,58 @@
 ---
 layout: default
+
 ---
+
+{% assign generateSocialImage = false %}
+
+
+
+
+{% if generateSocialImage == true %}
+<style media="screen">
+  :root {
+    --size: 7.1vw;
+    --padding: 30px;
+  }
+  *{
+    box-sizing: border-box;
+  }
+  html{
+    background-color: grey;
+
+  }
+  body {
+    padding-left: var(--padding);
+    padding-right: var(--padding);
+    position: relative;
+    width: 600px;
+    height: 300px;
+    min-height: unset;
+  }
+  h1 > a.post-link{
+    margin: 0;
+    font-size: var(--size);
+    line-height: calc(var(--size)*0.8);
+
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+
+    max-width: 90%;
+
+  }
+  .page-content, .wrapper, h1{
+    margin: 0;
+    padding: 0;
+    max-width: unset;
+  }
+  .site-header, p, .footer, .post-meta, .post-content{
+    display: none;
+  }
+</style>
+{% endif %}
+
+
 <article class="post" itemscope itemtype="https://schema.org/BlogPosting">
 
   <header class="post-header">
