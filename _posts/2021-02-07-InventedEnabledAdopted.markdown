@@ -4,6 +4,7 @@ title:  Invented, allowed, adopted. A three-stage drama for new ideas to becomin
 description: To have an impact on the world, new ideas had to overcome three stages. They were first invented, then allowed, and finally adopted. Here are some examples of when they didn’t make it.
 date:   2021-02-13 10:08:05 +0100
 categories: notes
+socialImage: inventedAdopted.png
 ---
 What did a new idea have to go through before becoming a real thing and have a role in people lives? From scattered readings in recent and historical innovation examples, I picked up a pattern. To have an impact on the world, new ideas had to overcome three stages: they were first invented, then allowed, and finally adopted. Here are some examples of when they didn’t make it.
 
