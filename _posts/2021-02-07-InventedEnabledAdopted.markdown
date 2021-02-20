@@ -47,4 +47,5 @@ Those adoption failures were due to many different causes, so it would be imposs
 {% include footnotes-item.html text="Steve Johnson - Where Good Ideas Come From"%}
 {% include footnotes-item.html text="Kodak’s First Digital Moment - The New York Times" link="https://lens.blogs.nytimes.com/2015/08/12/kodaks-first-digital-moment/?_r=0#"%}
 {% include footnotes-item.html text="As Xerox PARC Turns 47, The  Lesson Learned Is That Business Models Matter" link="https://www.forbes.com/sites/tendayiviki/2017/07/01/as-xerox-parc-turns-forty-seven-the-lesson-learned-is-that-business-models-matter/" %}
-[OLPC’s $100 laptop was going to change the world — then it all went wrong - The Verge](https://www.theverge.com/2018/4/16/17233946/olpcs-100-laptop-education-where-is-it-now)
+
+{% include footnotes-item.html text="OLPC’s $100 laptop was going to change the world — then it all went wrong - The Verge" link="https://www.theverge.com/2018/4/16/17233946/olpcs-100-laptop-education-where-is-it-now" %}
