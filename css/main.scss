@@ -16,7 +16,7 @@ $base-line-height: 1.5;
 $title-font-size: 48px;
 
 $small-font-size:  $base-font-size * 0.875;
-$big-font-size:  $base-font-size * 1.5;
+$big-font-size:  $base-font-size * 1.8;
 
 $text-color:  #262626;
 $light-gray: #ccc;
@@ -52,6 +52,7 @@ body {
 
 *::selection{
   // color: $background-color;
+  // background-color: $dark-gray;
   background-color: $light-gray;
 }
 
@@ -74,11 +75,12 @@ ul.post-list > hr{
 
 a, a:visited{
   text-decoration: underline;
-
   color: $text-color;
+  transition: 0.2s;
 }
 a:hover{
-  background-color: $light-gray;
+  // background-color: $light-gray;
+  background-color: $dark-gray;
   // color: $dark-gray;
 }
 
@@ -113,7 +115,7 @@ h2, .post-content h2{
 
 h1 > a.post-link{
   font-size: $title-font-size;
-  line-height: $title-font-size*1.1;
+  line-height: $title-font-size*1.15;
   text-decoration: none;
   font-family: $secondary-font-family;
 }
@@ -141,16 +143,41 @@ blockquote{
 
 .site-header .wrapper > div{
   flex-grow: 1;
+  min-width: 300px;
 }
 
 a.home{
   font-family: $secondary-font-family;
   font-weight: 800;
   text-decoration: none;
+
+  background-color: $light-gray;
+}
+a.home:hover, .footer a.home:hover{
+  background-color: $dark-gray;
+}
+.footer a.home{
+  background-color: unset;
 }
 
-.archive-link{
+.site-header .wrapper > div.archive-link{
   margin-top: 1rem;
+  width: 100%;
+  // text-align: right;
+}
+
+@media (max-width: 600px) {
+  .site-header .wrapper > div.archive-link{
+    text-align: right;
+  }
+  .site-header .wrapper > div:nth-of-type(2){
+    margin-top: 1rem;
+  }
+  h1 > a.post-link{
+    font-size: $big-font-size;
+    line-height: $big-font-size;
+
+  }
 }
 
 .home.archive{
@@ -161,11 +188,15 @@ a.home{
   font-family: $secondary-font-family;
   text-decoration: none;
   font-weight: bold;
+  line-height: 5px;
 }
 
 .post-meta {
   text-transform: uppercase;
   font-family: $secondary-font-family;
+  // background-color: $dark-gray
+  font-size: $small-font-size;
+  color: $text-color;
 }
 
 .footer{
@@ -209,4 +240,8 @@ a.home{
 #subscribe{
   margin-top: 10px;
   text-align: right;
+}
+
+.pagination{
+  font-family: $secondary-font-family;
 }
