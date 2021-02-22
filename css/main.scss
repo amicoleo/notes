@@ -52,8 +52,7 @@ body {
 
 *::selection{
   // color: $background-color;
-  // background-color: $dark-gray;
-  background-color: $light-gray;
+  background-color: $dark-gray;
 }
 
 ul.post-list > li > hr , .post-content > hr{
@@ -74,14 +73,22 @@ ul.post-list > hr{
 
 
 a, a:visited{
-  text-decoration: underline;
+  text-decoration: none;
   color: $text-color;
+  background-color: $light-gray;
   transition: 0.2s;
 }
+
 a:hover{
   // background-color: $light-gray;
   background-color: $dark-gray;
+  text-decoration: none;
   // color: $dark-gray;
+}
+
+.leonardo-amico-link{
+  background-color: unset;
+  font-weight: bold;
 }
 
 p{
@@ -114,10 +121,19 @@ h2, .post-content h2{
 }
 
 h1 > a.post-link{
-  font-size: $title-font-size;
-  line-height: $title-font-size*1.15;
+  // font-size: $title-font-size;
+  // line-height: $title-font-size*1.15;
   text-decoration: none;
-  font-family: $secondary-font-family;
+  // font-family: $secondary-font-family;
+
+  font-size: $title-font-size;
+  line-height: $title-font-size;
+  font-weight: bold;
+
+  background-color: unset;
+}
+h1 > a.post-link:hover, .archive a:hover{
+  color: $dark-gray;
 }
 
 blockquote{
@@ -136,12 +152,12 @@ blockquote{
   border-bottom: 1px solid $light-gray;
 }
 
-.site-header .wrapper{
+.site-header .wrapper, .footer .wrapper{
   display: flex;
   flex-wrap: wrap;
 }
 
-.site-header .wrapper > div{
+.site-header .wrapper > div, .footer .wrapper > div{
   flex-grow: 1;
   min-width: 300px;
 }
@@ -151,7 +167,7 @@ a.home{
   font-weight: 800;
   text-decoration: none;
 
-  background-color: $light-gray;
+  background-color: unset;
 }
 a.home:hover, .footer a.home:hover{
   background-color: $dark-gray;
@@ -185,22 +201,31 @@ a.home:hover, .footer a.home:hover{
 }
 
 .archive a{
-  font-family: $secondary-font-family;
   text-decoration: none;
+  background-color: unset;
   font-weight: bold;
   line-height: 5px;
 }
 
+
+
 .post-meta {
-  text-transform: uppercase;
-  font-family: $secondary-font-family;
+  // text-transform: uppercase;
+  // font-family: $secondary-font-family;
   // background-color: $dark-gray
   font-size: $small-font-size;
   color: $text-color;
 }
 
 .footer{
+  font-family: $secondary-font-family;
+  border-top: 1px solid $light-gray;
   margin-top: 20px;
+  padding: 20px;
+}
+
+.footer .credits{
+  text-align: right;
 }
 
 
@@ -244,4 +269,5 @@ a.home:hover, .footer a.home:hover{
 
 .pagination{
   font-family: $secondary-font-family;
+  text-align: center;
 }
