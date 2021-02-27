@@ -26,7 +26,7 @@ But the strongest critique of the Bauhaus lack of technological knowledge was Bu
 
 > In short they only looked at problems of modifications of the surface of end-product, which end-products were inherently sub-functions of a technically obsolete world
 
-(Obviously, Bucky did all the thinks he was criticising Gropius and the Bauhaus about.  But that’s a story I’ll save for some other time).
+(Obviously, Bucky did all the things he was criticising Gropius and the Bauhaus about. But that’s a story I’ll save for some other time).
 
 ---
 
