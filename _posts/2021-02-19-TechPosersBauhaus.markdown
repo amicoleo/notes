@@ -2,7 +2,7 @@
 layout: post
 title:  Tech posers of the Bauhaus
 description: The Bauhaus greatest achievement was to make artists interested in the creative use of technology, to design things that are useful and nice to use. And they did that without knowing a lot about tech.
-date:   2021-02-21 10:08:05 +0100
+date:   2021-02-27 10:08:05 +0100
 categories: notes
 socialImage: socialBauhaus.png
 ---
