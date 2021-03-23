@@ -27,12 +27,14 @@ $background-color: #FCFCFC;
 
 $spacing-unit:     30px;
 
-
 // Width of the content area
 $content-width:    800px;
 
 $on-palm:          600px;
 $on-laptop:        800px;
+
+$large-border: 12px;
+$small-border: 4px;
 
 // Minima also includes a mixin for defining media queries.
 // Use media queries like this:
@@ -67,7 +69,7 @@ ul.post-list > li > hr , .post-content > hr{
 
 ul.post-list > hr{
   border: none;
-  border-bottom: 1px solid $light-gray;
+  border-bottom: $small-border solid $light-gray;
   margin-bottom: 20px;
 }
 
@@ -149,7 +151,7 @@ blockquote{
   padding-top: $spacing-unit;
   padding-bottom: $spacing-unit;
   font-family: $secondary-font-family;
-  border-bottom: 1px solid $light-gray;
+  border-bottom: $large-border solid $light-gray;
 }
 
 .site-header .wrapper, .footer .wrapper{
@@ -222,7 +224,7 @@ a.home:hover, .footer a.home:hover{
 
 .footer{
   font-family: $secondary-font-family;
-  border-top: 1px solid $light-gray;
+  border-top: $large-border solid $light-gray;
   margin-top: 20px;
   padding-top: 20px;
   padding-bottom: 20px;
