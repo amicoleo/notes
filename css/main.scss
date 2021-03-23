@@ -64,7 +64,7 @@ ul.post-list > li > hr , .post-content > hr{
   max-width: 50px;
   margin: 40px auto;
 
-  border-bottom: 1px solid $light-gray;
+  border-bottom: $small-border solid $light-gray;
 }
 
 ul.post-list > hr{
