@@ -151,7 +151,7 @@ blockquote{
   padding-top: $spacing-unit;
   padding-bottom: $spacing-unit;
   font-family: $secondary-font-family;
-  border-bottom: $large-border solid $light-gray;
+  border-bottom: $large-border solid $dark-gray;
 }
 
 .site-header .wrapper, .footer .wrapper{
@@ -224,7 +224,7 @@ a.home:hover, .footer a.home:hover{
 
 .footer{
   font-family: $secondary-font-family;
-  border-top: $large-border solid $light-gray;
+  border-top: $large-border solid $dark-gray;
   margin-top: 20px;
   padding-top: 20px;
   padding-bottom: 20px;
