@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Invented, allowed, adopted. A three-stage drama for new ideas to becoming things in the world.
+title:  Invented, allowed, adopted. A three-stage drama for new ideas to becoming things in the world
 description: To have an impact on the world, new ideas had to overcome three stages. They were first invented, then allowed, and finally adopted. Here are some examples of when they didn’t make it.
 date:   2021-02-13 10:08:05 +0100
 categories: notes
