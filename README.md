@@ -1,4 +1,4 @@
-ve # SETUP
+# SETUP
 
 Run locally
 ```
