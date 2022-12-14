@@ -27,7 +27,8 @@ These are the two strongest signals of what the future might hold for us. The te
 But spending days at home plugged into the matrix while Mad Max is going on outside the window is definitely not the life I hope to have in a sustainable future world. Thankfully, from some corner of the internet (thanks, Reddit), I found a better alternative. 
 
 
-{% youtube "https://www.youtube.com/watch?v=UqJJktxCY9U" %}
+<div class="embed-container">    <iframe title="YouTube video player" src="//www.youtube.com/embed/UqJJktxCY9U" allowfullscreen="" width="640" height="390" frameborder="0"></iframe></div>
+
  
 
 You might have seen this video before. It is one of the most popular examples of something called Solarpunk. And its vision of a green, communal, technological, and joyful future had me hooked right away. 
